@@ -15,15 +15,15 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
   - [Nikto](https://github.com/lm3nitro/CyberLabs/blob/main/Nikto.md)
   - [Gobuster]()
   - [Nessus](https://github.com/lm3nitro/CyberLabs/blob/main/Nessus.md)
-  - [ZAP]()
-  - [Nmap]()
+  - [ZAP](https://github.com/lm3nitro/CyberLabs/blob/main/Zap.md)
+  - [Nmap](https://github.com/lm3nitro/CyberLabs/blob/main/Nmap.md)
 - <b>Proxy</b>
   - [PolarProxy]()
   - [Squid Proxy]()
   - [mimproxy]()
 - <b>Network Traffic Analysis</b>
   - [RITA]()
-  - [Arkime]()
+  - [Arkime](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md)
   - [Argus]()
   - [OpenVAS]()
   - [Nfdump]()
@@ -48,8 +48,8 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
   - [Splunk]()
   - [ELK]()
 - <b>Network Monitoring</b>
-  - [Zabbix]()
-  - [LibreNMS]()
+  - [Zabbix](https://github.com/lm3nitro/CyberLabs/blob/main/Zabbix.md)
+  - [LibreNMS](https://github.com/lm3nitro/CyberLabs/blob/main/LibreNMS.md)
 - <b>Network Security Monitoring</b>
   - [Zeek]()
   - [NTOPng]()
