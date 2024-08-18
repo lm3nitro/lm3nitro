@@ -12,7 +12,7 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
 
 - <b>Vulnerability Management</b>
   - [OpenVAS]()
-  - [Nikto]()
+  - [Nikto](https://github.com/lm3nitro/CyberLabs/blob/main/Nikto.md)
   - [Gobuster]()
   - [Nessus]()
   - [ZAP]()
