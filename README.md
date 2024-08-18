@@ -57,15 +57,15 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
 
 <h2>Certifications:</h2>
 
-- [CCNA](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Cisco CyberOps](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [CompTIA Network +](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [CompTIA Security +](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [CEH](https://www.youtube.com/watch?v=E2MwRWxDBkA)
++ <IMG src="(https://img.shields.io/badge/CISCO%20CCNA-1BA0D7?style=for-the-badge&logo=%231BA0D7&logoColor=white" />
+
++ <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
++ <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+- [CEH]()
 
 <h1>Beyond the Highlights:</h1>
 
 While the above projects showcase a portion of my expertise, my portfolio extends far beyond these examples. These endeavors reflect my commitment to continuous learning and adapting to evolving cybersecurity challenges. Completing these projects has allowed me to apply my knowledge by simulating real-world scenarios. I was able to gain hands-on experience utilizing a broad range of cybersecurity and networking tools and technologies.
 I am excited to explore opportunities where I can contribute my skills and knowledge to safeguard organizations against cyber threats and drive innovation in cybersecurity practices.
 
-[linkedin]: nnnnnnnnnnnnnn
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
