@@ -71,5 +71,5 @@ I am excited to explore opportunities where I can contribute my skills and knowl
 
 <h1><br/><a></a>Hobbies:</a></h1>
 
-
+<h1><br/><a>Contact:</a></h1>
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
