@@ -1,5 +1,5 @@
 <h1>Erick Gomez
-<h1><br/><a>Network Engineer</a> <a> and Cybersecurity Enthusiast</a></h1>
+<h1><br/><a></a>Network Security Geek</a></h1>
 
 I am a dedicated network engineer with a strong passion for cybersecurity, seeking to leverage my expertise in networking and expand into the dynamic field of cybersecurity. My journey encompasses a diverse range of projects and experiences, where I have honed my skills in areas such as virtualization, proxy technologies, firewall configuration, IDS/IPS implementations, SIEM integration, and more.
 
@@ -69,4 +69,4 @@ While the above projects showcase a portion of my expertise, my portfolio extend
 I am excited to explore opportunities where I can contribute my skills and knowledge to safeguard organizations against cyber threats and drive innovation in cybersecurity practices.
 I invite you to explore my portfolio to see how I have applied my skills to real-world scenarios and challenges.
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: nnnnnnnnnnnnnn
