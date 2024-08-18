@@ -67,6 +67,5 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
 
 While the above projects showcase a portion of my expertise, my portfolio extends far beyond these examples. These endeavors reflect my commitment to continuous learning and adapting to evolving cybersecurity challenges. Completing these projects has allowed me to apply my knowledge by simulating real-world scenarios. I was able to gain hands-on experience utilizing a broad range of cybersecurity and networking tools and technologies.
 I am excited to explore opportunities where I can contribute my skills and knowledge to safeguard organizations against cyber threats and drive innovation in cybersecurity practices.
-I invite you to explore my portfolio to see how I have applied my skills to real-world scenarios and challenges.
 
 [linkedin]: nnnnnnnnnnnnnn
