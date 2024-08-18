@@ -57,11 +57,12 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
 
 <h2>Certifications:</h2>
 
-+ <IMG src="(https://img.shields.io/badge/CISCO%20CCNA-1BA0D7?style=for-the-badge&logo=%231BA0D7&logoColor=white" />
-
++ <img src="https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
++ <img src="https://img.shields.io/badge/Cisco%20CyberOPS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
++ <img src="https://img.shields.io/badge/CEH-EC1C24?style=for-the-badge&labelColor=23FF0000" />
 + <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 + <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-- [CEH]()
+
 
 <h1>Beyond the Highlights:</h1>
 
