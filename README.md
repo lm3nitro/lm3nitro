@@ -11,9 +11,19 @@ I am fueled by a deep passion for cybersecurity, driven by the ever-evolving lan
 I thrive on continuous learning, actively engaging in industry forums, training programs, and certifications such as CompTIA Security+, Certified Ethical Hacker (CEH), and Cisco Certified CyberOps Associate. This commitment to ongoing education empowers me to adapt to evolving security challenges and implement best practices that align with industry standards and regulations.
 
 I am personally drawn to challenges that push boundaries and inspire innovative solutions. I embrace challenges as opportunities for growth and contribution to the cybersecurity community.
-<h2>Projects:</h2>
 
-- $${\color{purple}Vulnerability \color{purple}Management}$$ 
+<h2><br/></a>Certifications:</a></h1>
+<img src="https://img.shields.io/badge/CEH-%23CC0000?style=for-the-badge&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/CCNA-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Cisco%20CyberOps-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Network%2B-%23C8202F?style=for-the-badge&logo=comptia&logoColor=white" /></a>
+
+
+
+
+
+
+<h2>Projects:</h2>
 
 - <b>Vulnerability Management</b>
   - [OpenVAS]()
