@@ -17,11 +17,7 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
 <img src="https://img.shields.io/badge/CCNA-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Cisco%20CyberOps-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Network%2B-%23C8202F?style=for-the-badge&logo=comptia&logoColor=white" /></a>
-
-
-
-
-
+<img src="https://img.shields.io/badge/Security%2B-%23C8202F?style=for-the-badge&logo=comptia" /></a>
 
 <h2>Projects:</h2>
 
