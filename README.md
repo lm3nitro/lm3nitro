@@ -32,18 +32,18 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
 - <b>Metasploit</b>
   - [Armitage]()
 - <b>Honeypot</b>
-  - [T-pot]()
+  - [T-pot](https://github.com/lm3nitro/CyberLabs/blob/main/T-pot.md)
 - <b>Firewall</b>
   - [Fortinet]()
   - [Palo Alto]()
   - [pfSense]()
   - [UFW]()
 - <b>EDRs</b>
-  - [Wazuh]()
+  - [Wazuh](https://github.com/lm3nitro/CyberLabs/tree/main/Wazuh)
 - <b>DNS</b>
-  - [Pihole]()
+  - [Pihole](https://github.com/lm3nitro/CyberLabs/blob/main/Pihole.md)
 - <b>Atomic Red Team</b>
-  - [Atomic Red Team]()
+  - [Atomic Red Team](https://github.com/lm3nitro/CyberLabs/blob/main/Atomic%20Red%20Team.md)
 - <b>SIEM</b>
   - [Splunk]()
   - [ELK]()
@@ -53,22 +53,13 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
 - <b>Network Security Monitoring</b>
   - [Zeek]()
   - [NTOPng]()
-  - [Security Onion]()
-
-<h2>Certifications:</h2>
-
-+ <img src="https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-+ <img src="https://img.shields.io/badge/Cisco%20CyberOPS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-+ <img src="https://img.shields.io/badge/CEH-EC1C24?style=for-the-badge&labelColor=23FF0000" />
-+ <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-+ <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
-
-<h1>Beyond the Highlights:</h1>
-
-While the above projects showcase a portion of my expertise, my portfolio extends far beyond these examples. These endeavors reflect my commitment to continuous learning and adapting to evolving cybersecurity challenges. Completing these projects has allowed me to apply my knowledge by simulating real-world scenarios. I was able to gain hands-on experience utilizing a broad range of cybersecurity and networking tools and technologies.
-I am excited to explore opportunities where I can contribute my skills and knowledge to safeguard organizations against cyber threats and drive innovation in cybersecurity practices.
-
+  - [Security Onion](https://github.com/lm3nitro/CyberLabs/blob/main/Security%20Onion.md)
+- <b>IDS/IPS</b>
+  - [Fail2Ban](https://github.com/lm3nitro/CyberLabs/blob/main/Fail2Ban.md)
+  - [Fail2Ban](https://github.com/lm3nitro/CyberLabs/blob/main/Snort.md)
+- <b>Metasploit</b>
+  - [Armitage](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md)
+  - 
 <h1><br/><a></a>Hobbies:</a></h1>
 
 <h1><br/><a>Contact:</a></h1>
