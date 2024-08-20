@@ -25,12 +25,9 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
   - [RITA]()
   - [Arkime](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md)
   - [Argus]()
-  - [OpenVAS]()
   - [Nfdump]()
 - MySQL</b>
   - [MySQL](https://github.com/lm3nitro/CyberLabs/tree/main/MySQL)
-- <b>Metasploit</b>
-  - [Armitage]()
 - <b>Honeypot</b>
   - [T-pot](https://github.com/lm3nitro/CyberLabs/blob/main/T-pot.md)
 - <b>Firewall</b>
@@ -66,6 +63,8 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
   - [Sysmon](https://github.com/lm3nitro/CyberLabs/tree/main/Sysmon)
 
 <h1><br/><a></a>Hobbies:</a></h1>
+
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/Chess-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white" /></a>
 
 <h1><br/><a>Contact:</a></h1>
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
