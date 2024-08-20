@@ -28,7 +28,7 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
   - [OpenVAS]()
   - [Nfdump]()
 - MySQL</b>
-  - [MySQL]()
+  - [MySQL](https://github.com/lm3nitro/CyberLabs/tree/main/MySQL)
 - <b>Metasploit</b>
   - [Armitage]()
 - <b>Honeypot</b>
@@ -56,10 +56,15 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
   - [Security Onion](https://github.com/lm3nitro/CyberLabs/blob/main/Security%20Onion.md)
 - <b>IDS/IPS</b>
   - [Fail2Ban](https://github.com/lm3nitro/CyberLabs/blob/main/Fail2Ban.md)
-  - [Fail2Ban](https://github.com/lm3nitro/CyberLabs/blob/main/Snort.md)
+  - [Snort](https://github.com/lm3nitro/CyberLabs/blob/main/Snort.md)
 - <b>Metasploit</b>
   - [Armitage](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md)
-  - 
+  - [MSFvenom](https://github.com/lm3nitro/CyberLabs/blob/main/MSFvenom.md)
+- <b>Penetration Testing</b>
+  - [Hydra](https://github.com/lm3nitro/CyberLabs/tree/main)
+- <b>System Monitoring</b>
+  - [Sysmon](https://github.com/lm3nitro/CyberLabs/tree/main/Sysmon)
+
 <h1><br/><a></a>Hobbies:</a></h1>
 
 <h1><br/><a>Contact:</a></h1>
