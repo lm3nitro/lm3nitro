@@ -22,9 +22,7 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
 <h2>Projects:</h2>
 
 - <b>Vulnerability Management</b>
-  - [OpenVAS]()
   - [Nikto](https://github.com/lm3nitro/CyberLabs/blob/main/Nikto.md)
-  - [Gobuster]()
   - [Nessus](https://github.com/lm3nitro/CyberLabs/blob/main/Nessus.md)
   - [ZAP](https://github.com/lm3nitro/CyberLabs/blob/main/Zap.md)
   - [Nmap](https://github.com/lm3nitro/CyberLabs/blob/main/Nmap.md)
@@ -33,7 +31,7 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
   - [Squid Proxy]()
   - [mimproxy]()
 - <b>Network Traffic Analysis</b>
-  - [RITA]()
+  - [RITA](https://github.com/lm3nitro/CyberLabs/tree/main/Rita)
   - [Arkime](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md)
   - [Argus]()
   - [Nfdump]()
