@@ -22,54 +22,68 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
 <h2>Projects:</h2>
 
 - <b>Vulnerability Management</b>
-  - [Nikto](https://github.com/lm3nitro/CyberLabs/blob/main/Nikto.md)
-  - [Nessus](https://github.com/lm3nitro/CyberLabs/blob/main/Nessus.md)
-  - [ZAP](https://github.com/lm3nitro/CyberLabs/blob/main/Zap.md)
-  - [Nmap](https://github.com/lm3nitro/CyberLabs/blob/main/Nmap.md)
+
+    [Nikto](https://github.com/lm3nitro/CyberLabs/blob/main/Nikto.md) | [Nessus](https://github.com/lm3nitro/CyberLabs/blob/main/Nessus.md) | [ZAP](https://github.com/lm3nitro/CyberLabs/blob/main/Zap.md) | [Nmap](https://github.com/lm3nitro/CyberLabs/blob/main/Nmap.md)
+
 - <b>Proxy</b>
-  - [PolarProxy]()
-  - [Squid Proxy]()
-  - [mimproxy]()
+
+    [PolarProxy]() | [Squid Proxy]() | [mimproxy]()
+
 - <b>Network Traffic Analysis</b>
-  - [RITA](https://github.com/lm3nitro/CyberLabs/tree/main/Rita)
-  - [Arkime](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md)
-  - [Argus]()
-  - [Nfdump]()
+
+  [RITA](https://github.com/lm3nitro/CyberLabs/tree/main/Rita) | [Arkime](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md) | [Argus]() | [Nfdump]()
+
 - MySQL</b>
-  - [MySQL](https://github.com/lm3nitro/CyberLabs/tree/main/MySQL)
+
+    [MySQL](https://github.com/lm3nitro/CyberLabs/tree/main/MySQL)
+
 - <b>Honeypot</b>
-  - [T-pot](https://github.com/lm3nitro/CyberLabs/blob/main/T-pot.md)
+
+    [T-pot](https://github.com/lm3nitro/CyberLabs/blob/main/T-pot.md)
+
 - <b>Firewall</b>
-  - [Fortinet]()
-  - [Palo Alto]()
-  - [pfSense]()
-  - [UFW]()
+
+    [Fortinet]() | [Palo Alto]() | [pfSense]() | [UFW]()
+  
 - <b>EDRs</b>
-  - [Wazuh](https://github.com/lm3nitro/CyberLabs/tree/main/Wazuh)
+
+    [Wazuh](https://github.com/lm3nitro/CyberLabs/tree/main/Wazuh)
+  
 - <b>DNS</b>
-  - [Pihole](https://github.com/lm3nitro/CyberLabs/blob/main/Pihole.md)
+
+    [Pihole](https://github.com/lm3nitro/CyberLabs/blob/main/Pihole.md)
+
 - <b>Atomic Red Team</b>
-  - [Atomic Red Team](https://github.com/lm3nitro/CyberLabs/blob/main/Atomic%20Red%20Team.md)
+
+    [Atomic Red Team](https://github.com/lm3nitro/CyberLabs/blob/main/Atomic%20Red%20Team.md)
+
 - <b>SIEM</b>
-  - [Splunk]()
-  - [ELK]()
+
+    [Splunk]() | [ELK]()
+
 - <b>Network Monitoring</b>
-  - [Zabbix](https://github.com/lm3nitro/CyberLabs/blob/main/Zabbix.md)
-  - [LibreNMS](https://github.com/lm3nitro/CyberLabs/blob/main/LibreNMS.md)
+
+    [Zabbix](https://github.com/lm3nitro/CyberLabs/blob/main/Zabbix.md) | [LibreNMS](https://github.com/lm3nitro/CyberLabs/blob/main/LibreNMS.md)
+  
 - <b>Network Security Monitoring</b>
-  - [Zeek]()
-  - [NTOPng]()
-  - [Security Onion](https://github.com/lm3nitro/CyberLabs/blob/main/Security%20Onion.md)
+
+    [Zeek]() | [NTOPng]() | [Security Onion](https://github.com/lm3nitro/CyberLabs/blob/main/Security%20Onion.md)
+
 - <b>IDS/IPS</b>
-  - [Fail2Ban](https://github.com/lm3nitro/CyberLabs/blob/main/Fail2Ban.md)
-  - [Snort](https://github.com/lm3nitro/CyberLabs/blob/main/Snort.md)
+
+    [Fail2Ban](https://github.com/lm3nitro/CyberLabs/blob/main/Fail2Ban.md) | [Snort](https://github.com/lm3nitro/CyberLabs/blob/main/Snort.md)
+
 - <b>Metasploit</b>
-  - [Armitage](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md)
-  - [MSFvenom](https://github.com/lm3nitro/CyberLabs/blob/main/MSFvenom.md)
+
+    [Armitage](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md) | [MSFvenom](https://github.com/lm3nitro/CyberLabs/blob/main/MSFvenom.md)
+
 - <b>Penetration Testing</b>
-  - [Hydra](https://github.com/lm3nitro/CyberLabs/tree/main)
+
+    [Hydra](https://github.com/lm3nitro/CyberLabs/tree/main)
+
 - <b>System Monitoring</b>
-  - [Sysmon](https://github.com/lm3nitro/CyberLabs/tree/main/Sysmon)
+
+    [Sysmon](https://github.com/lm3nitro/CyberLabs/tree/main/Sysmon)
 
 <h1><br/><a></a>Hobbies:</a></h1>
 
