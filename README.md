@@ -28,7 +28,7 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
 
 - <b>Network Traffic Analysis</b>
 
-  [RITA](https://github.com/lm3nitro/CyberLabs/tree/main/Rita) | [Arkime](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md) | [Argus]() | [Nfdump]()
+  [RITA](https://github.com/lm3nitro/CyberLabs/tree/main/Rita) | [Arkime](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md)
 
 - MySQL</b>
 
@@ -64,7 +64,7 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
   
 - <b>Network Security Monitoring</b>
 
-    [Zeek]() | [NTOPng]() | [Security Onion](https://github.com/lm3nitro/CyberLabs/blob/main/Security%20Onion.md)
+    [Security Onion](https://github.com/lm3nitro/CyberLabs/blob/main/Security%20Onion.md)
 
 - <b>IDS/IPS</b>
 
