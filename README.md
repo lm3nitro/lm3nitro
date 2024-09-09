@@ -4,7 +4,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="500">
 <br><br>
 
-I am a dedicated network engineer who thorougly enjoys to see how IP communicates, seeking to leverage my expertise in networking and expand into the dynamic field of cybersecurity. My journey encompasses a diverse range of projects and experiences, where I have honed my skills in areas such as virtualization, proxy technologies, firewall configuration, IDS/IPS implementations, SIEM integration, and more.
+I grew up playing chess my whole life. Playing chess allowed me to network with many people and made it so that I was able to meet someone that introduced me to networking at the age of 14. I have had a passion for networking and seeing how IP communicates ever since. Growing up, I was always very curious to see how things work. I have since spent tons of hours trying to reverse engineer how things work and why they are important and used. I love analyzing network traffic at the deepest level in hex. My love for Networking has also fueled my passion for Security. 
+
+In my most recent role, I was a Network Engineer. I am currently seeking to leverage my expertise in networking and expand into the dynamic field of cybersecurity. My journey encompasses a diverse range of projects and experiences, where I have honed my skills in areas such as virtualization, proxy technologies, firewall configuration, IDS/IPS implementations, SIEM integration, and more.
 
 I am fueled by a deep passion for cybersecurity, driven by the ever-evolving landscape of digital threats and the imperative to safeguard critical assets and data. My enthusiasm extends beyond professional obligations, as I am constantly exploring new techniques, tools, and methodologies to enhance security posture and stay ahead of emerging threats.
 
