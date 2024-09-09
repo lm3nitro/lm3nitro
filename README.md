@@ -20,7 +20,7 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
 
 - <b>Vulnerability Management</b>
 
-    [Nikto](https://github.com/lm3nitro/CyberLabs/blob/main/Nikto.md) | [Nessus](https://github.com/lm3nitro/CyberLabs/blob/main/Nessus.md) | [ZAP](https://github.com/lm3nitro/CyberLabs/blob/main/Zap.md) | [Nmap](https://github.com/lm3nitro/CyberLabs/blob/main/Nmap.md)
+    [Nikto](https://github.com/lm3nitro/CyberLabs/blob/main/Nikto.md) | [Nessus](https://github.com/lm3nitro/CyberLabs/blob/main/Nessus.md) | [ZAP](https://github.com/lm3nitro/CyberLabs/blob/main/Zap.md) | [Nmap](https://github.com/lm3nitro/CyberLabs/blob/main/Nmap.md) | [Gobuster](https://github.com/lm3nitro/CyberLabs/blob/main/Gobuster.md) | [OpenVAS](https://github.com/lm3nitro/CyberLabs/blob/main/OpenVAS.md) | [ZAP](https://github.com/lm3nitro/CyberLabs/blob/main/ZAP.md)
 
 - <b>Proxy</b>
 
