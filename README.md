@@ -82,6 +82,10 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
 
     [Sysmon](https://github.com/lm3nitro/CyberLabs/tree/main/Sysmon)
 
+<h1><br/><a></a>Skills:</a></h1>
+
+Firewall | Routing & switching | Network Traffic Analysis | Proxy | Vulnerability Management | IDS & IPS 
+
 <h1><br/><a></a>Hobbies:</a></h1>
 
 <img src="https://img.shields.io/badge/Chess-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=black" /></a>
