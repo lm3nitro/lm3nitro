@@ -84,7 +84,7 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
 
 <h1><br/><a></a>Skills:</a></h1>
 
-Firewall | Routing & switching | Network Traffic Analysis | Proxy | Vulnerability Management | IDS & IPS 
+Firewall | Routing & switching | Network Traffic Analysis | Proxy | Vulnerability Management and Analysis | IDS & IPS | System Administration | Penetration Testing | 
 
 <h1><br/><a></a>Hobbies:</a></h1>
 
