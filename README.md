@@ -10,9 +10,9 @@ In my most recent role, I was a Network Engineer. I am currently seeking to leve
 
 I am fueled by a deep passion for cybersecurity, driven by the ever-evolving landscape of digital threats and the imperative to safeguard critical assets and data. My enthusiasm extends beyond professional obligations, as I am constantly exploring new techniques, tools, and methodologies to enhance security posture and stay ahead of emerging threats.
 
-I thrive on continuous learning, actively engaging in industry forums, training programs, and certifications such as CompTIA Security+, Certified Ethical Hacker (CEH), and Cisco Certified CyberOps Associate. This commitment to ongoing education empowers me to adapt to evolving security challenges and implement best practices that align with industry standards and regulations.
+I thrive on continuous learning, actively engaging in industry forums, training programs, and certifications. This commitment to ongoing education empowers me to adapt to evolving security challenges and implement best practices that align with industry standards and regulations.
 
-I am personally drawn to challenges that push boundaries and inspire innovative solutions. I embrace challenges as opportunities for growth and contribution to the cybersecurity community.
+I am personally drawn to challenges that push boundaries and inspire innovative solutions. I embrace challenges as opportunities for growth and look for ways to contribute to the cybersecurity community.
 
 <h2><br/></a>Certifications:</a></h1>
 
