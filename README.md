@@ -95,7 +95,8 @@ Firewall | Routing & switching | Network Traffic Analysis | Proxy | Vulnerabilit
 <img src="https://img.shields.io/badge/Hiking-%23143306?style=for-the-badge&logoColor=white" /></a>
 
 <h1><br/><a>Contact:</a></h1>
-<a href="(https://www.linkedin.com/in/erick-x-gomez/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
  
