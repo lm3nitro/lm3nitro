@@ -18,71 +18,89 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
 
 <img src="https://img.shields.io/badge/CEH-%23CC0000?style=for-the-badge&logoColor=white" /></a> <img src="https://img.shields.io/badge/CCNA-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a> <img src="https://img.shields.io/badge/Cisco%20CyberOps-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a> <img src="https://img.shields.io/badge/Network%2B-%23C8202F?style=for-the-badge&logo=comptia&logoColor=white" /></a> <img src="https://img.shields.io/badge/Security%2B-%23C8202F?style=for-the-badge&logo=comptia" /></a>
 
-<h2>Projects:</h2>
+<h2>Projects</h2>
 
-- <b>Vulnerability Management</b>
+<details><summary>Vulnerability Management</summary>
+    
+[Nikto](https://github.com/lm3nitro/CyberLabs/blob/main/Nikto.md) | [Nessus](https://github.com/lm3nitro/CyberLabs/blob/main/Nessus.md) | [Nmap](https://github.com/lm3nitro/CyberLabs/blob/main/Nmap.md) | [Gobuster](https://github.com/lm3nitro/CyberLabs/blob/main/Gobuster.md) | [OpenVAS](https://github.com/lm3nitro/CyberLabs/blob/main/OpenVAS.md) | [ZAP](https://github.com/lm3nitro/CyberLabs/blob/main/ZAP.md)   
+</details>
 
-    [Nikto](https://github.com/lm3nitro/CyberLabs/blob/main/Nikto.md) | [Nessus](https://github.com/lm3nitro/CyberLabs/blob/main/Nessus.md) | [Nmap](https://github.com/lm3nitro/CyberLabs/blob/main/Nmap.md) | [Gobuster](https://github.com/lm3nitro/CyberLabs/blob/main/Gobuster.md) | [OpenVAS](https://github.com/lm3nitro/CyberLabs/blob/main/OpenVAS.md) | [ZAP](https://github.com/lm3nitro/CyberLabs/blob/main/ZAP.md)
 
-- <b>Proxy</b>
+<details><summary>Proxy</summary>
 
-    [PolarProxy]() | [Squid Proxy]() | [mimproxy]()
+[PolarProxy]() | [Squid Proxy]() | [mimproxy]()
+</details>
 
-- <b>Network Traffic Analysis</b>
+<details><summary>Network Trffic Analysis</summary>
 
-  [RITA](https://github.com/lm3nitro/CyberLabs/tree/main/Rita) | [Arkime](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md)
+[RITA](https://github.com/lm3nitro/CyberLabs/tree/main/Rita) | [Arkime](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md)
+</details>
 
-- MySQL</b>
+<details><summary>MySQL</summary>
 
-    [MySQL](https://github.com/lm3nitro/CyberLabs/tree/main/MySQL)
+[MySQL](https://github.com/lm3nitro/CyberLabs/tree/main/MySQL)
+</details>
 
-- <b>Honeypot</b>
+<details><summary>Honeypot</summary>
 
-    [T-pot](https://github.com/lm3nitro/CyberLabs/blob/main/T-pot.md)
+[T-pot](https://github.com/lm3nitro/CyberLabs/blob/main/T-pot.md)
+</details>
 
-- <b>Firewall</b>
+<details><summary>Firewall</summary>
 
-    [Fortinet]() | [Palo Alto]() | [pfSense]() | [UFW]()
-  
-- <b>EDRs</b>
+[Fortinet]() | [Palo Alto]() | [pfSense]() | [UFW]()
+</details>
 
-    [Wazuh](https://github.com/lm3nitro/CyberLabs/tree/main/Wazuh)
-  
-- <b>DNS</b>
+<details><summary>EDR</summary>
 
-    [Pihole](https://github.com/lm3nitro/CyberLabs/blob/main/Pihole.md)
+[Wazuh](https://github.com/lm3nitro/CyberLabs/tree/main/Wazuh)
+</details> 
 
-- <b>Atomic Red Team</b>
+<details><summary>DNS</summary>
 
-    [Atomic Red Team](https://github.com/lm3nitro/CyberLabs/blob/main/Atomic%20Red%20Team.md)
+[Pihole](https://github.com/lm3nitro/CyberLabs/blob/main/Pihole.md)
+</details> 
 
-- <b>SIEM</b>
+<details><summary>Atomic Red Team</summary>
 
-    [Splunk]() | [ELK]()
+[Atomic Red Team](https://github.com/lm3nitro/CyberLabs/blob/main/Atomic%20Red%20Team.md)
+</details> 
 
-- <b>Network Monitoring</b>
+<details><summary>SIEM</summary>
 
-    [Zabbix](https://github.com/lm3nitro/CyberLabs/blob/main/Zabbix.md) | [LibreNMS](https://github.com/lm3nitro/CyberLabs/blob/main/LibreNMS.md)
-  
-- <b>Network Security Monitoring</b>
+[Splunk]() | [ELK]()
+</details>
 
-    [Security Onion](https://github.com/lm3nitro/CyberLabs/blob/main/Security%20Onion.md)
+<details><summary>Network Monitoring</summary>
 
-- <b>IDS/IPS</b>
+[Zabbix](https://github.com/lm3nitro/CyberLabs/blob/main/Zabbix.md) | [LibreNMS](https://github.com/lm3nitro/CyberLabs/blob/main/LibreNMS.md)
+</details>
 
-    [Fail2Ban](https://github.com/lm3nitro/CyberLabs/blob/main/Fail2Ban.md) | [Snort](https://github.com/lm3nitro/CyberLabs/blob/main/Snort.md)
+<details><summary>Network Security monitoring</summary>
 
-- <b>Metasploit</b>
+[Security Onion](https://github.com/lm3nitro/CyberLabs/blob/main/Security%20Onion.md)
+</details>
 
-    [Armitage](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md) | [MSFvenom](https://github.com/lm3nitro/CyberLabs/blob/main/MSFvenom.md)
+<details><summary>IDS/IPS</summary>
 
-- <b>Penetration Testing</b>
+[Fail2Ban](https://github.com/lm3nitro/CyberLabs/blob/main/Fail2Ban.md) | [Snort](https://github.com/lm3nitro/CyberLabs/blob/main/Snort.md)
+</details>
 
-    [Hydra](https://github.com/lm3nitro/CyberLabs/tree/main)
+<details><summary>Metasploit</summary>
 
-- <b>System Monitoring</b>
+[Armitage](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md) | [MSFvenom](https://github.com/lm3nitro/CyberLabs/blob/main/MSFvenom.md)
+</details>
 
-    [Sysmon](https://github.com/lm3nitro/CyberLabs/tree/main/Sysmon)
+<details><summary>Penetration Testing</summary>
+
+[Hydra](https://github.com/lm3nitro/CyberLabs/tree/main)
+</details>
+
+<details><summary>System Monitoring</summary>
+
+[Sysmon](https://github.com/lm3nitro/CyberLabs/tree/main/Sysmon)
+</details>
+
 
 <h1><br/><a></a>Skills:</a></h1>
 
