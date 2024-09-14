@@ -1,5 +1,4 @@
-<h1>Erick Gomez
-<h1><br/><a></a>Network Security Geek</a></h1>
+<img width="1000" alt="Screenshot 2024-09-14 at 3 12 07 PM" src="https://github.com/user-attachments/assets/8c9aee89-c045-4719-915d-27182c4c6cfc">
 
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="500">
 <br><br>
