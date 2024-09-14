@@ -14,11 +14,11 @@ I thrive on continuous learning, actively engaging in industry forums, training 
 
 I am personally drawn to challenges that push boundaries and inspire innovative solutions. I embrace challenges as opportunities for growth and look for ways to contribute to the cybersecurity community.
 
-<h2><br/></a>Certifications:</a></h1>
+<h1><br/></a>Certifications:</a></h1>
 
 <img src="https://img.shields.io/badge/CEH-%23CC0000?style=for-the-badge&logoColor=white" /></a> <img src="https://img.shields.io/badge/CCNA-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a> <img src="https://img.shields.io/badge/Cisco%20CyberOps-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a> <img src="https://img.shields.io/badge/Network%2B-%23C8202F?style=for-the-badge&logo=comptia&logoColor=white" /></a> <img src="https://img.shields.io/badge/Security%2B-%23C8202F?style=for-the-badge&logo=comptia" /></a>
 
-<h2>Projects</h2>
+<h1>Projects</h1>
 
 <details><summary>Vulnerability Management</summary>
 <img width="318" alt="Screenshot 2024-09-14 at 2 16 28 PM" src="https://github.com/user-attachments/assets/e2815cff-0499-47a2-9dec-22175a6a14da">
@@ -102,6 +102,7 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
 [Sysmon](https://github.com/lm3nitro/CyberLabs/tree/main/Sysmon)
 </details>
 
+<h1><br/><a></a>Training:</a></h1>
 
 <h1><br/><a></a>Skills:</a></h1>
 
