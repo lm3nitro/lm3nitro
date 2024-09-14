@@ -1,4 +1,5 @@
-<img width="1400" alt="Screenshot 2024-09-14 at 3 56 06 PM" src="https://github.com/user-attachments/assets/4429b06e-3686-4b0d-abc1-93992521e416">
+<img width="1400" alt="Screenshot 2024-09-14 at 3 57 24 PM" src="https://github.com/user-attachments/assets/98931154-52f8-48a3-81f2-f003b47024b7">
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="500">
 <br><br>
