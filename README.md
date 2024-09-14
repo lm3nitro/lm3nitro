@@ -1,9 +1,6 @@
-<img width="1400" alt="Screenshot 2024-09-14 at 3 57 24 PM" src="https://github.com/user-attachments/assets/98931154-52f8-48a3-81f2-f003b47024b7">
+![image](https://github.com/user-attachments/assets/18beda92-2fde-4a6a-87d1-badbe4f7a7a5)
 
-
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="500">
 <br><br>
-
 I grew up playing chess my whole life. Playing chess allowed me to network with many people and made it so that I was able to meet someone that introduced me to networking at the age of 14. I have had a passion for networking and seeing how IP communicates ever since. Growing up, I was always very curious to see how things work. I have since spent tons of hours trying to reverse engineer how things work and why they are important and used. I love analyzing network traffic at the deepest level in hex. My love for Networking has also fueled my passion for Security. 
 
 In my most recent role, I was a Network Engineer. I am currently seeking to leverage my expertise in networking and expand into the dynamic field of cybersecurity. My journey encompasses a diverse range of projects and experiences, where I have honed my skills in areas such as virtualization, proxy technologies, firewall configuration, IDS/IPS implementations, SIEM integration, and more.
@@ -14,12 +11,11 @@ I thrive on continuous learning, actively engaging in industry forums, training 
 
 I am personally drawn to challenges that push boundaries and inspire innovative solutions. I embrace challenges as opportunities for growth and look for ways to contribute to the cybersecurity community.
 
-
-<H1><br/></a>Certifications:</a></H1>
+<img width="1400" alt="Screenshot 2024-09-14 at 6 01 09 PM" src="https://github.com/user-attachments/assets/d2dd0c20-c708-4a7a-89a4-f8d051e83409">
 
 <img src="https://img.shields.io/badge/CEH-%23CC0000?style=for-the-badge&logoColor=white" /></a> <img src="https://img.shields.io/badge/CCNA-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a> <img src="https://img.shields.io/badge/Cisco%20CyberOps-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a> <img src="https://img.shields.io/badge/Network%2B-%23C8202F?style=for-the-badge&logo=comptia&logoColor=white" /></a> <img src="https://img.shields.io/badge/Security%2B-%23C8202F?style=for-the-badge&logo=comptia" /></a>
 
-<h1>Projects</h1>
+<img width="1400" alt="Screenshot 2024-09-14 at 6 02 50 PM" src="https://github.com/user-attachments/assets/b6ff4865-9ee0-4875-b733-2b494627a801">
 
 <details><summary>Vulnerability Management</summary>
 
@@ -107,6 +103,7 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
 <h1><br/><a></a>Training:</a></h1>
 
 <h1><br/><a></a>Skills:</a></h1>
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="500">
 
 Firewall | Routing & switching | Network Traffic Analysis | Proxy | Vulnerability Management and Analysis | IDS & IPS | System Administration | Penetration Testing | 
 
