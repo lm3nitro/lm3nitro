@@ -19,8 +19,6 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
 
 <details><summary>Vulnerability Management</summary>
 
-![Vuln-Assessment](https://github.com/user-attachments/assets/f6cb71ca-5ee2-4b6c-8ffc-9c0998fac537)
-
 [Nikto](https://github.com/lm3nitro/CyberLabs/blob/main/Nikto.md) | [Nessus](https://github.com/lm3nitro/CyberLabs/blob/main/Nessus.md) | [Nmap](https://github.com/lm3nitro/CyberLabs/blob/main/Nmap.md) | [Gobuster](https://github.com/lm3nitro/CyberLabs/blob/main/Gobuster.md) | [OpenVAS](https://github.com/lm3nitro/CyberLabs/blob/main/OpenVAS.md) | [ZAP](https://github.com/lm3nitro/CyberLabs/blob/main/ZAP.md)   
 </details>
 
