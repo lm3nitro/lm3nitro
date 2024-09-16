@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/18beda92-2fde-4a6a-87d1-badbe4f7a7a5)
+<img width="1400" alt="Screenshot 2024-09-16 at 1 57 52 AM" src="https://github.com/user-attachments/assets/60e005f9-7929-48b6-87c3-0659cbe006a8">
 
 <br><br>
 I grew up playing chess my whole life. Playing chess allowed me to network with many people and made it so that I was able to meet someone that introduced me to networking at the age of 14. I have had a passion for networking and seeing how IP communicates ever since. Growing up, I was always very curious to see how things work. I have since spent tons of hours trying to reverse engineer how things work and why they are important and used. I love analyzing network traffic at the deepest level in hex. My love for Networking has also fueled my passion for Security. 
@@ -11,11 +11,11 @@ I thrive on continuous learning, actively engaging in industry forums, training 
 
 I am personally drawn to challenges that push boundaries and inspire innovative solutions. I embrace challenges as opportunities for growth and look for ways to contribute to the cybersecurity community.
 
-<img width="1400" alt="Screenshot 2024-09-14 at 6 01 09 PM" src="https://github.com/user-attachments/assets/d2dd0c20-c708-4a7a-89a4-f8d051e83409">
+<img width="1400" alt="Screenshot 2024-09-16 at 2 02 26 AM" src="https://github.com/user-attachments/assets/212dbcdc-9d8a-4cc8-b0fb-398403804315">
 
 <img src="https://img.shields.io/badge/CEH-%23CC0000?style=for-the-badge&logoColor=white" /></a> <img src="https://img.shields.io/badge/CCNA-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a> <img src="https://img.shields.io/badge/Cisco%20CyberOps-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a> <img src="https://img.shields.io/badge/Network%2B-%23C8202F?style=for-the-badge&logo=comptia&logoColor=white" /></a> <img src="https://img.shields.io/badge/Security%2B-%23C8202F?style=for-the-badge&logo=comptia" /></a>
 
-<img width="1400" alt="Screenshot 2024-09-14 at 6 02 50 PM" src="https://github.com/user-attachments/assets/b6ff4865-9ee0-4875-b733-2b494627a801">
+<img width="1400" alt="Screenshot 2024-09-16 at 2 06 56 AM" src="https://github.com/user-attachments/assets/4150280c-1bb9-4e37-a8a8-0afac7d264bc">
 
 <details><summary>Vulnerability Management</summary>
 
@@ -98,20 +98,21 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
 [Sysmon](https://github.com/lm3nitro/CyberLabs/tree/main/Sysmon)
 </details>
 
-<h1><br/><a></a>Training:</a></h1>
+<img width="1400" alt="Screenshot 2024-09-16 at 2 09 39 AM" src="https://github.com/user-attachments/assets/b15c18ff-db2e-4c96-99a1-02da22b017fe">
 
-<h1><br/><a></a>Skills:</a></h1>
+<img width="1400" alt="Screenshot 2024-09-16 at 2 12 55 AM" src="https://github.com/user-attachments/assets/35b33d02-618e-42b1-8202-3e384277e49b">
+
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="500">
 
 Firewall | Routing & switching | Network Traffic Analysis | Proxy | Vulnerability Management and Analysis | IDS & IPS | System Administration | Penetration Testing | 
 
-<h1><br/><a></a>Hobbies:</a></h1>
+<img width="1400" alt="Screenshot 2024-09-16 at 2 08 23 AM" src="https://github.com/user-attachments/assets/bb0747a6-5109-4bbf-98c2-31a41265c278">
 
 <img src="https://img.shields.io/badge/Chess-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=black" /></a>
 <img src="https://img.shields.io/badge/Classical%20Music-a18167?style=for-the-badge&logo=applemusic&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Hiking-%23143306?style=for-the-badge&logoColor=white" /></a>
 
-<h1><br/><a>Contact:</a></h1>
+<img width="1400" alt="Screenshot 2024-09-16 at 2 10 53 AM" src="https://github.com/user-attachments/assets/8d3a2d91-9c79-487b-9390-bedb8517df81">
 
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
