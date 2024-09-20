@@ -45,7 +45,7 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
 
 <details><summary>Firewall</summary>
 
-[Fortinet]() | [Palo Alto]() | [pfSense]() | [UFW]()
+[Fortinet](https://github.com/lm3nitro/CyberLabs/blob/main/Fortinet/Fortinet%20DPI.md) | [Palo Alto]() | [pfSense]() | [UFW]()
 </details>
 
 <details><summary>EDR</summary>
