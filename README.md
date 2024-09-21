@@ -100,6 +100,11 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
 [Sysmon](https://github.com/lm3nitro/CyberLabs/tree/main/Sysmon)
 </details>
 
+<details><summary>Virtualization</summary>
+
+ [VMWare ESXi](https://github.com/lm3nitro/CyberLabs/tree/main/Sysmon)
+</details>
+
 <img width="1400" alt="Screenshot 2024-09-16 at 2 09 39 AM" src="https://github.com/user-attachments/assets/b15c18ff-db2e-4c96-99a1-02da22b017fe">
 
 <img width="1400" alt="Screenshot 2024-09-16 at 2 12 55 AM" src="https://github.com/user-attachments/assets/35b33d02-618e-42b1-8202-3e384277e49b">
