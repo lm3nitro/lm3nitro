@@ -46,7 +46,7 @@ Click below to view the individual certifications:
 
 <details><summary>Firewall</summary>
 
-[Fortinet](https://github.com/lm3nitro/CyberLabs/blob/main/Fortinet/Fortinet%20DPI.md) | [Palo Alto](https://github.com/lm3nitro/CyberLabs/tree/main/Palo%20Alto) | [pfSense]() | [UFW]()
+[Fortinet](https://github.com/lm3nitro/CyberLabs/blob/main/Fortinet/Fortinet%20DPI.md) | [Palo Alto](https://github.com/lm3nitro/CyberLabs/tree/main/Palo%20Alto) | [pfSense](https://github.com/lm3nitro/CyberLabs/blob/main/pfSense/pfSense%20Install.md) | [UFW]()
 </details>
 
 <details><summary>EDR</summary>
@@ -107,7 +107,9 @@ Click below to view the individual certifications:
 
 <details><summary>Virtualization</summary>
 
- [VMWare ESXi](https://github.com/lm3nitro/CyberLabs/blob/main/ESXi/Part%201-VMWare%20ESXI%20Install.md)
+   <details><summary>ESXi</summary>
+    
+   [Part 1](https://github.com/lm3nitro/CyberLabs/blob/main/ESXi/Part%201-VMWare%20ESXI%20Install.md) | [Part 2](https://github.com/lm3nitro/CyberLabs/blob/main/ESXi/Part%202-ESXi%20Vulnerability%20Scan.md) | [Part 3](https://github.com/lm3nitro/CyberLabs/blob/main/ESXi/Part%203-Patching%20ESXI.md) | [Part 4](https://github.com/lm3nitro/CyberLabs/blob/main/ESXi/Part%204-VM%20creation.md)
 </details>
 
 <img width="1400" alt="Screenshot 2024-09-16 at 2 09 39 AM" src="https://github.com/user-attachments/assets/b15c18ff-db2e-4c96-99a1-02da22b017fe">
