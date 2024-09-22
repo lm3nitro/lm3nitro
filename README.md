@@ -13,7 +13,7 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
 
 <img width="1400" alt="Screenshot 2024-09-16 at 2 02 26 AM" src="https://github.com/user-attachments/assets/212dbcdc-9d8a-4cc8-b0fb-398403804315">
 
-<img src="https://img.shields.io/badge/CEH-%23CC0000?style=for-the-badge&logoColor=white" /></a> <img src="https://img.shields.io/badge/CCNA-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a> <img src="https://img.shields.io/badge/Cisco%20CyberOps-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a> <img src="https://img.shields.io/badge/Network%2B-%23C8202F?style=for-the-badge&logo=comptia&logoColor=white" /></a> <img src="https://img.shields.io/badge/Security%2B-%23C8202F?style=for-the-badge&logo=comptia" /></a>
+[<img src="https://img.shields.io/badge/CEH-%23CC0000?style=for-the-badge&logoColor=white" /></a>](https://www.credly.com/badges/b59409c5-f939-4186-be94-45abfb4cee13) | <img src="https://img.shields.io/badge/CCNA-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a> |  <img src="https://img.shields.io/badge/Cisco%20CyberOps-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a> | <img src="https://img.shields.io/badge/Network%2B-%23C8202F?style=for-the-badge&logo=comptia&logoColor=white" /></a> | <img src="https://img.shields.io/badge/Security%2B-%23C8202F?style=for-the-badge&logo=comptia" /></a>
 
 <img width="1400" alt="Screenshot 2024-09-16 at 2 06 56 AM" src="https://github.com/user-attachments/assets/4150280c-1bb9-4e37-a8a8-0afac7d264bc">
 
@@ -21,7 +21,6 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
 
 [Nikto](https://github.com/lm3nitro/CyberLabs/blob/main/Nikto.md) | [Nessus](https://github.com/lm3nitro/CyberLabs/blob/main/Nessus.md) | [Nmap](https://github.com/lm3nitro/CyberLabs/blob/main/Nmap.md) | [Gobuster](https://github.com/lm3nitro/CyberLabs/blob/main/Gobuster.md) | [OpenVAS](https://github.com/lm3nitro/CyberLabs/blob/main/OpenVAS.md) | [ZAP](https://github.com/lm3nitro/CyberLabs/blob/main/ZAP.md)   
 </details>
-
 
 <details><summary>Proxy</summary>
 
