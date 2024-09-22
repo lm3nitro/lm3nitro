@@ -109,7 +109,9 @@ Click below to view the individual certifications:
 
    <details><summary>ESXi</summary>
     
-   [Part 1](https://github.com/lm3nitro/CyberLabs/blob/main/ESXi/Part%201-VMWare%20ESXI%20Install.md) | [Part 2](https://github.com/lm3nitro/CyberLabs/blob/main/ESXi/Part%202-ESXi%20Vulnerability%20Scan.md) | [Part 3](https://github.com/lm3nitro/CyberLabs/blob/main/ESXi/Part%203-Patching%20ESXI.md) | [Part 4](https://github.com/lm3nitro/CyberLabs/blob/main/ESXi/Part%204-VM%20creation.md)
+   [VMWare ESXI Install](https://github.com/lm3nitro/CyberLabs/blob/main/ESXi/Part%201-VMWare%20ESXI%20Install.md) | [ESXi Vulnerability Scan](https://github.com/lm3nitro/CyberLabs/blob/main/ESXi/Part%202-ESXi%20Vulnerability%20Scan.md) | [Patching ESXI](https://github.com/lm3nitro/CyberLabs/blob/main/ESXi/Part%203-Patching%20ESXI.md) | [VM creation](https://github.com/lm3nitro/CyberLabs/blob/main/ESXi/Part%204-VM%20creation.md)
+</details>
+
 </details>
 
 <img width="1400" alt="Screenshot 2024-09-16 at 2 09 39 AM" src="https://github.com/user-attachments/assets/b15c18ff-db2e-4c96-99a1-02da22b017fe">
