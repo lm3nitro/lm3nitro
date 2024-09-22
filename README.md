@@ -26,7 +26,7 @@ Click below to view the individual certifications:
 
 <details><summary>Proxy</summary>
 
-[PolarProxy]() | [Squid Proxy]() | [mimproxy]()
+[PolarProxy]() | [Squid Proxy](https://github.com/lm3nitro/CyberLabs/blob/main/Squid%20Proxy/Squid%20Proxy.md) | [mimproxy]()
 </details>
 
 <details><summary>Network Trffic Analysis</summary>
