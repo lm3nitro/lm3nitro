@@ -107,7 +107,7 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
 
 <details><summary>Virtualization</summary>
 
- [VMWare ESXi](https://github.com/lm3nitro/CyberLabs/tree/main/Sysmon)
+ [VMWare ESXi](https://github.com/lm3nitro/CyberLabs/blob/main/ESXi/Part%201-VMWare%20ESXI%20Install.md)
 </details>
 
 <img width="1400" alt="Screenshot 2024-09-16 at 2 09 39 AM" src="https://github.com/user-attachments/assets/b15c18ff-db2e-4c96-99a1-02da22b017fe">
