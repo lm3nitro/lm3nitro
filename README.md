@@ -34,6 +34,11 @@ Click below to view the individual certifications:
 [RITA](https://github.com/lm3nitro/CyberLabs/tree/main/Rita) | [Arkime](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md)
 </details>
 
+<details><summary>Malware Analysis</summary>
+
+[Cuckoo Sandbox](https://github.com/lm3nitro/CyberLabs/blob/main/Cuckoo%20Sandbox.md)
+</details>
+
 <details><summary>MySQL</summary>
 
 [MySQL](https://github.com/lm3nitro/CyberLabs/tree/main/MySQL)
