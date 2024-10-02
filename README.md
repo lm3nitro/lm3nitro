@@ -19,7 +19,7 @@ Click below to view the individual certifications:
 
 <img width="1400" alt="Screenshot 2024-09-16 at 2 06 56 AM" src="https://github.com/user-attachments/assets/4150280c-1bb9-4e37-a8a8-0afac7d264bc">
 
-<details><summary>Vulnerability Management</summary>
+<details><summary>Vulnerability Management Analysis</summary>
 
 [Nikto](https://github.com/lm3nitro/CyberLabs/blob/main/Nikto.md) | [Nessus](https://github.com/lm3nitro/CyberLabs/blob/main/Nessus.md) | [Nmap](https://github.com/lm3nitro/CyberLabs/blob/main/Nmap.md) | [Gobuster](https://github.com/lm3nitro/CyberLabs/blob/main/Gobuster.md) | [OpenVAS](https://github.com/lm3nitro/CyberLabs/blob/main/OpenVAS.md) | [ZAP](https://github.com/lm3nitro/CyberLabs/blob/main/ZAP.md)   
 </details>
