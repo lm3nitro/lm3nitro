@@ -31,7 +31,7 @@ Click below to view the individual certifications:
 
 <details><summary>Network Trffic Analysis</summary>
 
-[RITA](https://github.com/lm3nitro/CyberLabs/tree/main/Rita) | [Arkime](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md)
+[RITA](https://github.com/lm3nitro/CyberLabs/tree/main/Rita) | [Arkime](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md) | [Argus](https://github.com/lm3nitro/CyberLabs/blob/main/Argus.md)
 </details>
 
 <details><summary>Malware Analysis</summary>
@@ -62,11 +62,6 @@ Click below to view the individual certifications:
 <details><summary>DNS</summary>
 
 [Pihole](https://github.com/lm3nitro/CyberLabs/blob/main/Pihole.md)
-</details> 
-
-<details><summary>Network Traffic Analysis</summary>
-
-[Argus](https://github.com/lm3nitro/CyberLabs/blob/main/Argus.md)
 </details> 
 
 <details><summary>Attack Emulation</summary>
