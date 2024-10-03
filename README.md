@@ -51,7 +51,7 @@ Click below to view the individual certifications:
 
 <details><summary>Firewall</summary>
 
-[Fortinet](https://github.com/lm3nitro/CyberLabs/blob/main/Fortinet/Fortinet%20DPI.md) | [Palo Alto](https://github.com/lm3nitro/CyberLabs/tree/main/Palo%20Alto) | [pfSense](https://github.com/lm3nitro/CyberLabs/blob/main/pfSense/pfSense%20Install.md) | [UFW]()
+[Fortinet](https://github.com/lm3nitro/CyberLabs/blob/main/Fortinet/Fortinet%20DPI.md) | [Palo Alto](https://github.com/lm3nitro/CyberLabs/tree/main/Palo%20Alto) | [pfSense](https://github.com/lm3nitro/CyberLabs/blob/main/pfSense/pfSense%20Install.md) | [UFW](https://github.com/lm3nitro/CyberLabs/blob/main/UFW.md)
 </details>
 
 <details><summary>EDR</summary>
