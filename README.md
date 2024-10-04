@@ -79,7 +79,7 @@ Click below to view the individual certifications:
 [Zabbix](https://github.com/lm3nitro/CyberLabs/blob/main/Zabbix.md) | [LibreNMS](https://github.com/lm3nitro/CyberLabs/blob/main/LibreNMS.md)
 </details>
 
-<details><summary>Network Security monitoring</summary>
+<details><summary>Network Security Monitoring</summary>
 
 [Security Onion](https://github.com/lm3nitro/CyberLabs/blob/main/Security%20Onion.md) | [Zeek](https://github.com/lm3nitro/CyberLabs/blob/main/Zeek/Zeek%20Install%20Ubuntu%2022.md) | [Ntopng](https://github.com/lm3nitro/CyberLabs/blob/main/Ntopng.md)  
 
@@ -100,6 +100,11 @@ Click below to view the individual certifications:
 [Hydra](https://github.com/lm3nitro/CyberLabs/tree/main)
 </details>
 
+<details><summary>Routing and Switching</summary>
+
+[Cisco Password Recovery](https://github.com/lm3nitro/CyberLabs/tree/main/Cisco) 
+</details>
+ 
 <details><summary>System Monitoring</summary>
 
 [Sysmon](https://github.com/lm3nitro/CyberLabs/tree/main/Sysmon)
