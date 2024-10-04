@@ -102,7 +102,7 @@ Click below to view the individual certifications:
 
 <details><summary>Routing and Switching</summary>
 
-[Cisco Password Recovery](https://github.com/lm3nitro/CyberLabs/tree/main/Cisco) 
+[Cisco Password Recovery](https://github.com/lm3nitro/CyberLabs/blob/main/Cisco/Password%20Recovery.md) 
 </details>
  
 <details><summary>System Monitoring</summary>
