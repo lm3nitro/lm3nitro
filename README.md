@@ -19,7 +19,7 @@ Click below to view the individual certifications:
 
 <img width="1400" alt="Screenshot 2024-09-16 at 2 06 56 AM" src="https://github.com/user-attachments/assets/4150280c-1bb9-4e37-a8a8-0afac7d264bc">
 
-<details><summary><strong>Network Security<strong></summary>
+<details><summary><h3>Network Security<h3></summary>
 
 <details><summary>Firewall</summary>
 
@@ -64,7 +64,7 @@ Click below to view the individual certifications:
 
 </details>
 
-<details><summary>Threat Analysis and Management</summary>
+<details><summary><h3>Threat Analysis and Management<h3></summary>
 
 <details><summary>Vulnerability Management Analysis</summary>
 
@@ -93,7 +93,7 @@ Click below to view the individual certifications:
 
 </details>
 
-<details><summary>Testing and Emulation</summary>
+<details><summary><h3>Testing and Emulation<h3></summary>
 
 <details><summary>Attack Emulation</summary>
 
@@ -112,7 +112,7 @@ Click below to view the individual certifications:
 
 </details>
 
-<details><summary>Infrastructure and Systems</summary>
+<details><summary><h3>Infrastructure and Systems<h3></summary>
 
 <details><summary>ESXi</summary>
     
@@ -131,7 +131,7 @@ Click below to view the individual certifications:
 
 </details>
 
-<details><summary>System Monitoring</summary>
+<details><summary><h3>System Monitoring<h3></summary>
 
 [Sysmon](https://github.com/lm3nitro/CyberLabs/tree/main/Sysmon)
 </details>
