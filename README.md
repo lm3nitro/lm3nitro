@@ -133,7 +133,11 @@ Click below to view the individual certifications:
 
 <details><summary><h3>System Monitoring<h3></summary>
 
+<details><summary>System Monitoring</summary>
+
 [Sysmon](https://github.com/lm3nitro/CyberLabs/tree/main/Sysmon)
+</details>
+
 </details>
 
 <img width="1400" alt="Screenshot 2024-09-16 at 2 09 39 AM" src="https://github.com/user-attachments/assets/b15c18ff-db2e-4c96-99a1-02da22b017fe">
@@ -145,9 +149,6 @@ Click below to view the individual certifications:
 
 + EC-Council
   - *Certified Ethical Hacker Training (May 2021)*
-
-+ Hack The Box
-  - *Certified Defensive Security Analyst (In Progress)*
    
 <img width="1400" alt="Screenshot 2024-09-16 at 2 12 55 AM" src="https://github.com/user-attachments/assets/35b33d02-618e-42b1-8202-3e384277e49b">
 
