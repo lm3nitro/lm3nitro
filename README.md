@@ -38,7 +38,7 @@ Click below to view the individual certifications:
 
 <details><summary>Netflow</summary>
 
-[SiLK Standalone](https://github.com/lm3nitro/CyberLabs/blob/main/SiLK/Standalone%20SiLK%20and%20TAP.md)
+[SiLK Standalone](https://github.com/lm3nitro/CyberLabs/blob/main/SiLK/Standalone%20SiLK%20and%20TAP.md) | [Graylog](https://github.com/lm3nitro/CyberLabs/blob/main/Graylog.md) 
 </details>
 
 <details><summary>DNS</summary>
