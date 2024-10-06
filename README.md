@@ -107,7 +107,7 @@ Click below to view the individual certifications:
 
 <details><summary>Penetration Testing</summary>
 
-[Hydra](https://github.com/lm3nitro/CyberLabs/tree/main) | [WiFi Cracking](https://github.com/lm3nitro/CyberLabs/blob/main/Wifi%20Hacking.md)
+[Hydra](https://github.com/lm3nitro/CyberLabs/tree/main) | [WiFi Cracking](https://github.com/lm3nitro/CyberLabs/blob/main/Wifi%20Hacking.md) | [Windows SMB](https://github.com/lm3nitro/CyberLabs/blob/main/Windows%20SMB.md)
 </details>
 
 </details>
