@@ -102,12 +102,12 @@ Click below to view the individual certifications:
 
 <details><summary>Metasploit</summary>
 
-[Armitage](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md) | [MSFvenom](https://github.com/lm3nitro/CyberLabs/blob/main/MSFvenom.md)
+[Armitage](https://github.com/lm3nitro/CyberLabs/blob/main/Armitage.md) | [MSFvenom](https://github.com/lm3nitro/CyberLabs/blob/main/MSFvenom.md)
 </details>
 
 <details><summary>Penetration Testing</summary>
 
-[Hydra](https://github.com/lm3nitro/CyberLabs/tree/main) | [WiFi Cracking](https://github.com/lm3nitro/CyberLabs/blob/main/Wifi%20Hacking.md) | [Windows SMB](https://github.com/lm3nitro/CyberLabs/blob/main/Windows%20SMB.md)
+[Hydra](https://github.com/lm3nitro/CyberLabs/blob/main/Hydra.md) | [WiFi Cracking](https://github.com/lm3nitro/CyberLabs/blob/main/Wifi%20Hacking.md) | [Windows SMB](https://github.com/lm3nitro/CyberLabs/blob/main/Windows%20SMB.md)
 </details>
 
 </details>
@@ -126,7 +126,7 @@ Click below to view the individual certifications:
 
 <details><summary>MySQL</summary>
 
-[MySQL](https://github.com/lm3nitro/CyberLabs/tree/main/MySQL)
+[Installation](https://github.com/lm3nitro/CyberLabs/blob/main/MySQL/Part1-Installation.md) | [Import Database](https://github.com/lm3nitro/CyberLabs/blob/main/MySQL/Part2-Import%20Database.md) | [MySQL Queries](https://github.com/lm3nitro/CyberLabs/blob/main/MySQL/Part3-MySQL%20Queries.md) | [Remote Connection](https://github.com/lm3nitro/CyberLabs/blob/main/MySQL/Part4-Connecting%20Remotely.md)
 </details>
 
 </details>
