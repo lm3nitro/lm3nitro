@@ -11,8 +11,7 @@ I thrive on continuous learning, actively engaging in industry forums, training 
 
 I am personally drawn to challenges that push boundaries and inspire innovative solutions. I embrace challenges as opportunities for growth and look for ways to contribute to the cybersecurity community.
 
-<img width="1400" alt="Screenshot 2024-10-06 at 9 39 52 PM" src="https://github.com/user-attachments/assets/6feed7f9-cb19-468e-b2f7-1fc0aebbf706">
-
+<img width="1400" alt="Screenshot 2024-10-06 at 9 41 30 PM" src="https://github.com/user-attachments/assets/8b1f4d09-67b1-47b3-9f2b-a444d3d8f634">
 
 Click below to view the individual certifications:
 
@@ -157,13 +156,13 @@ Click below to view the individual certifications:
 
 Firewall | Routing & switching | Network Traffic Analysis | Proxy | Vulnerability Management and Analysis | IDS & IPS | System Administration | Penetration Testing | 
 
-<img width="1400" alt="Screenshot 2024-10-06 at 9 34 51 PM" src="https://github.com/user-attachments/assets/60d5099d-2dcc-42cc-92dc-8233f9438aba">
+<img width="1400" alt="Screenshot 2024-10-06 at 9 42 51 PM" src="https://github.com/user-attachments/assets/c8aa0c00-d4cf-4329-9386-3c8f5536df84">
 
 <img src="https://img.shields.io/badge/Chess-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=black" /></a>
 <img src="https://img.shields.io/badge/Classical%20Music-a18167?style=for-the-badge&logo=applemusic&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Hiking-%23143306?style=for-the-badge&logoColor=white" /></a>
 
-<img width="1400" alt="Screenshot 2024-10-06 at 9 35 13 PM" src="https://github.com/user-attachments/assets/db9e3135-2e39-481e-b49c-fe683ab93971">
+<img width="1400" alt="Screenshot 2024-10-06 at 9 43 15 PM" src="https://github.com/user-attachments/assets/1a160afb-7ff8-4dc3-88d7-1cb798af5302">
 
 [<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>](https://www.linkedin.com/in/erick-x-gomez/)
 
