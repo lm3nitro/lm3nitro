@@ -1,4 +1,4 @@
-<img width="1400" alt="Screenshot 2024-09-16 at 1 57 52 AM" src="https://github.com/user-attachments/assets/60e005f9-7929-48b6-87c3-0659cbe006a8">
+![ERICK gOMEZ](https://github.com/user-attachments/assets/6f6a8e16-9203-4063-a648-cf1a94283a97)
 
 <br><br>
 I grew up playing chess my whole life. Playing chess allowed me to network with many people and made it so that I was able to meet someone that introduced me to networking at the age of 14. I have had a passion for networking and seeing how IP communicates ever since. Growing up, I was always very curious to see how things work. I have since spent tons of hours trying to reverse engineer how things work and why they are important and used. I love analyzing network traffic at the deepest level in hex. My love for Networking has also fueled my passion for Security. 
