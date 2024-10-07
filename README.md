@@ -20,8 +20,8 @@ Click below to view the individual certifications:
 
 <img width="1400" alt="Screenshot 2024-10-06 at 9 31 18 PM" src="https://github.com/user-attachments/assets/fe0ab3a6-f202-40cf-b110-d10b18e2fffc">
 
-<details><summary><h3><img width="243" alt="Screenshot 2024-10-06 at 9 48 53 PM" src="https://github.com/user-attachments/assets/ff1c0713-7f58-4107-9517-b7182d59fdea">
-<h3></summary>
+<details><summary><img width="243" alt="Screenshot 2024-10-06 at 9 48 53 PM" src="https://github.com/user-attachments/assets/ff1c0713-7f58-4107-9517-b7182d59fdea">
+</summary>
 
 <details><summary>Firewall</summary>
 
@@ -66,8 +66,8 @@ Click below to view the individual certifications:
 
 </details>
 
-<details><summary><h3><img width="455" alt="Screenshot 2024-10-06 at 9 51 25 PM" src="https://github.com/user-attachments/assets/25008084-5591-455c-9afb-089dad7c73e1">
-<h3></summary>
+<details><summary><img width="455" alt="Screenshot 2024-10-06 at 9 51 25 PM" src="https://github.com/user-attachments/assets/25008084-5591-455c-9afb-089dad7c73e1">
+</summary>
 
 <details><summary>Vulnerability Management Analysis</summary>
 
@@ -96,8 +96,8 @@ Click below to view the individual certifications:
 
 </details>
 
-<details><summary><h3><img width="306" alt="Screenshot 2024-10-06 at 9 51 48 PM" src="https://github.com/user-attachments/assets/24984f0d-70dd-42a0-9cc9-0f2fa5dae50e">
-<h3></summary>
+<details><summary><img width="306" alt="Screenshot 2024-10-06 at 9 51 48 PM" src="https://github.com/user-attachments/assets/24984f0d-70dd-42a0-9cc9-0f2fa5dae50e">
+</summary>
 
 <details><summary>Attack Emulation</summary>
 
@@ -116,8 +116,8 @@ Click below to view the individual certifications:
 
 </details>
 
-<details><summary><h3><img width="367" alt="Screenshot 2024-10-06 at 9 52 03 PM" src="https://github.com/user-attachments/assets/3c11457f-d216-4e51-8ef4-73ad4773f5d8">
-<h3></summary>
+<details><summary><img width="367" alt="Screenshot 2024-10-06 at 9 52 03 PM" src="https://github.com/user-attachments/assets/3c11457f-d216-4e51-8ef4-73ad4773f5d8">
+</summary>
 
 <details><summary>ESXi</summary>
     
@@ -136,8 +136,8 @@ Click below to view the individual certifications:
 
 </details>
 
-<details><summary><h3><img width="255" alt="Screenshot 2024-10-06 at 9 52 24 PM" src="https://github.com/user-attachments/assets/d5b3d84f-a203-4c44-817f-f3943e321f7d">
-<h3></summary>
+<details><summary><img width="255" alt="Screenshot 2024-10-06 at 9 52 24 PM" src="https://github.com/user-attachments/assets/d5b3d84f-a203-4c44-817f-f3943e321f7d">
+</summary>
 
 <details><summary>System Monitoring</summary>
 
