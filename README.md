@@ -11,13 +11,13 @@ I thrive on continuous learning, actively engaging in industry forums, training 
 
 I am personally drawn to challenges that push boundaries and inspire innovative solutions. I embrace challenges as opportunities for growth and look for ways to contribute to the cybersecurity community.
 
-<img width="1400" alt="Screenshot 2024-09-16 at 2 02 26 AM" src="https://github.com/user-attachments/assets/212dbcdc-9d8a-4cc8-b0fb-398403804315">
+<img width="1400" alt="Screenshot 2024-10-06 at 9 34 20 PM" src="https://github.com/user-attachments/assets/7ea3e326-c5a8-46be-8f86-b9e18befa0a1">
 
 Click below to view the individual certifications:
 
 [<img src="https://img.shields.io/badge/CEH-%23CC0000?style=for-the-badge&logoColor=white" /></a>](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=xcABGr1HD1B3O3hz87yMXQNbkmwUUA0sHvtWvRmOxtc=)  [<img src="https://img.shields.io/badge/CCNA-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>](https://www.credly.com/badges/17901b06-9db8-4d0a-913d-3ffd1555d2a5)  [<img src="https://img.shields.io/badge/Cisco%20CyberOps-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>](https://www.credly.com/badges/c60ec979-61e4-4ba9-b1ea-5acfc28f1c46)  [<img src="https://img.shields.io/badge/Network%2B-%23C8202F?style=for-the-badge&logo=comptia&logoColor=white" /></a>](https://www.credly.com/badges/b59409c5-f939-4186-be94-45abfb4cee13)  [<img src="https://img.shields.io/badge/Security%2B-%23C8202F?style=for-the-badge&logo=comptia" /></a>](https://www.credly.com/badges/e28b3153-e8a7-4dfa-ba0e-766297ea7355)
 
-<img width="1400" alt="Screenshot 2024-09-16 at 2 06 56 AM" src="https://github.com/user-attachments/assets/4150280c-1bb9-4e37-a8a8-0afac7d264bc">
+<img width="1400" alt="Screenshot 2024-10-06 at 9 31 18 PM" src="https://github.com/user-attachments/assets/fe0ab3a6-f202-40cf-b110-d10b18e2fffc">
 
 <details><summary><h3>Network Security<h3></summary>
 
@@ -140,7 +140,7 @@ Click below to view the individual certifications:
 
 </details>
 
-<img width="1400" alt="Screenshot 2024-09-16 at 2 09 39 AM" src="https://github.com/user-attachments/assets/b15c18ff-db2e-4c96-99a1-02da22b017fe">
+<img width="1400" alt="Screenshot 2024-10-06 at 9 33 23 PM" src="https://github.com/user-attachments/assets/0cf73887-9f47-4b17-bea0-1f7f5d64a7e0">
 
 + Antisyphon 
   - *Getting Started with Packet Decoding (September 2024)*
@@ -150,19 +150,19 @@ Click below to view the individual certifications:
 + EC-Council
   - *Certified Ethical Hacker Training (May 2021)*
    
-<img width="1400" alt="Screenshot 2024-09-16 at 2 12 55 AM" src="https://github.com/user-attachments/assets/35b33d02-618e-42b1-8202-3e384277e49b">
+<img width="1400" alt="Screenshot 2024-10-06 at 9 33 54 PM" src="https://github.com/user-attachments/assets/bd75203a-5ccd-4cee-bdf9-66756678e96c">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="1400">
 
 Firewall | Routing & switching | Network Traffic Analysis | Proxy | Vulnerability Management and Analysis | IDS & IPS | System Administration | Penetration Testing | 
 
-<img width="1400" alt="Screenshot 2024-09-16 at 2 08 23 AM" src="https://github.com/user-attachments/assets/bb0747a6-5109-4bbf-98c2-31a41265c278">
+<img width="1400" alt="Screenshot 2024-10-06 at 9 34 51 PM" src="https://github.com/user-attachments/assets/60d5099d-2dcc-42cc-92dc-8233f9438aba">
 
 <img src="https://img.shields.io/badge/Chess-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=black" /></a>
 <img src="https://img.shields.io/badge/Classical%20Music-a18167?style=for-the-badge&logo=applemusic&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Hiking-%23143306?style=for-the-badge&logoColor=white" /></a>
 
-<img width="1400" alt="Screenshot 2024-09-16 at 2 10 53 AM" src="https://github.com/user-attachments/assets/8d3a2d91-9c79-487b-9390-bedb8517df81">
+<img width="1400" alt="Screenshot 2024-10-06 at 9 35 13 PM" src="https://github.com/user-attachments/assets/db9e3135-2e39-481e-b49c-fe683ab93971">
 
 [<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>](https://www.linkedin.com/in/erick-x-gomez/)
 
