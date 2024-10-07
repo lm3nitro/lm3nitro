@@ -11,7 +11,8 @@ I thrive on continuous learning, actively engaging in industry forums, training 
 
 I am personally drawn to challenges that push boundaries and inspire innovative solutions. I embrace challenges as opportunities for growth and look for ways to contribute to the cybersecurity community.
 
-<img width="1400" alt="Screenshot 2024-10-06 at 9 34 20 PM" src="https://github.com/user-attachments/assets/7ea3e326-c5a8-46be-8f86-b9e18befa0a1">
+<img width="1400" alt="Screenshot 2024-10-06 at 9 39 52 PM" src="https://github.com/user-attachments/assets/6feed7f9-cb19-468e-b2f7-1fc0aebbf706">
+
 
 Click below to view the individual certifications:
 
