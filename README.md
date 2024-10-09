@@ -60,8 +60,12 @@ Each of these sections can be expanded further to provide detailed insights into
 </details> 
 
 <details><summary>Network Traffic Analysis</summary>
+<details><summary>Rita</summary>
 
-[RITA](https://github.com/lm3nitro/CyberLabs/tree/main/Rita) | [Arkime](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md) | [Argus](https://github.com/lm3nitro/CyberLabs/blob/main/Argus.md)
+[RITA Install](https://github.com/lm3nitro/CyberLabs/tree/main/Rita) | [Threat Hunting with RITA](https://github.com/lm3nitro/CyberLabs/blob/main/Rita/Threat%20Hunting%20with%20RITA.md)
+</details>
+
+[Arkime](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md) | [Argus](https://github.com/lm3nitro/CyberLabs/blob/main/Argus.md)
 </details>
 
 <details><summary>Network Monitoring</summary>
