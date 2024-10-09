@@ -17,6 +17,10 @@ Click below to view the individual certifications:
 
 <img width="1400" alt="Screenshot 2024-10-06 at 9 31 18 PM" src="https://github.com/user-attachments/assets/fe0ab3a6-f202-40cf-b110-d10b18e2fffc">
 
+The following projects and exercises were conducted within my own network and virtual environment. I utilized VMware ESXi as the core platform, which I installed, patched, and configured as a Type 1 hypervisor to support various virtual machines (VMs) and tools. Additionally, I acquired other essential equipment, including routers, switches, and various firewalls, to enhance the network infrastructure. This combination of physical hardware and virtual resources created a robust, flexible, and scalable environment that was ideal for a wide range of testing and development scenarios.
+
+Each of these sections can be expanded further to provide detailed insights into methodologies, tools used, and specific outcomes achieved throughout the projects and exercises.
+
 <details><summary><img width="243" alt="Screenshot 2024-10-06 at 9 48 53 PM" src="https://github.com/user-attachments/assets/ff1c0713-7f58-4107-9517-b7182d59fdea">
 </summary>
 
