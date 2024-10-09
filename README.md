@@ -1,7 +1,7 @@
 <img width="1400" alt="Screenshot 2024-10-06 at 9 45 43 PM" src="https://github.com/user-attachments/assets/9516123d-8b5e-4ec2-9d8c-670a95d27b1a">
 
 <br><br>
-I grew up playing chess my whole life. Playing chess allowed me to network with many people and made it so that I was able to meet someone that introduced me to networking at the age of 14. I have had a passion for networking and seeing how IP communicates ever since. Growing up, I was always very curious to see how things work. I have since spent tons of hours trying to reverse engineer how things work and why they are important and used. I love analyzing network traffic at the deepest level in hex. My love for Networking has also fueled my passion for Security. 
+I grew up playing chess my whole life. Playing chess allowed me to network with many people and made it so that I was able to meet someone that introduced me to networking at the age of 14. I have had a passion for networking and seeing how IP communicates ever since. From a young age, my curiosity drove me to explore how things work, leading to countless hours spent reverse engineering systems and understanding their significance. This fascination has evolved into a deep appreciation for analyzing network traffic, which naturally transitioned into a passion for cybersecurity.
 
 In my most recent role, I was a Network Engineer. I am currently seeking to leverage my expertise in networking and expand into the dynamic field of cybersecurity. My journey encompasses a diverse range of projects and experiences, where I have honed my skills in areas such as virtualization, proxy technologies, firewall configuration, IDS/IPS implementations, SIEM integration, and more.
 
