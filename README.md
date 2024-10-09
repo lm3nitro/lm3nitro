@@ -36,7 +36,12 @@ Each of these sections can be expanded further to provide detailed insights into
 
 <details><summary>Proxy</summary>
 
-[PolarProxy](https://github.com/lm3nitro/CyberLabs/blob/main/PolarProxy/Part%201-PolarProxy%20Install.md) | [Squid Proxy](https://github.com/lm3nitro/CyberLabs/blob/main/Squid%20Proxy/Squid%20Proxy.md) | [mimproxy](https://github.com/lm3nitro/CyberLabs/blob/main/mitmproxy.md)
+<details><summary>PolarProxy</summary>
+    
+[PolarProxy Install](https://github.com/lm3nitro/CyberLabs/blob/main/PolarProxy/Part%201-PolarProxy%20Install.md) | [PolarProxy with NetworkMiner](https://github.com/lm3nitro/CyberLabs/blob/main/PolarProxy/Part%202-PolarProxy%20with%20NetworkMiner.md)
+</details>
+
+[Squid Proxy](https://github.com/lm3nitro/CyberLabs/blob/main/Squid%20Proxy/Squid%20Proxy.md) | [mimproxy](https://github.com/lm3nitro/CyberLabs/blob/main/mitmproxy.md)
 </details>
 
 <details><summary>IDS/IPS</summary>
