@@ -101,7 +101,8 @@ Each of these sections can be expanded further to provide detailed insights into
 
 <details><summary>EDR</summary>
 
-[Wazuh](https://github.com/lm3nitro/CyberLabs/tree/main/Wazuh)
+[Wazuh Install](https://github.com/lm3nitro/CyberLabs/blob/main/Wazuh/Part%201-%20Installation%20and%20Configuration.md) | [Wazuh-SSH Brute Force Simulation Attack](https://github.com/lm3nitro/CyberLabs/blob/main/Wazuh/Part%202-SSH.md) | [Wazuh-RDP Brute Force Simulation Attack](https://github.com/lm3nitro/CyberLabs/blob/main/Wazuh/Part%203-RDP%20Brute%20Force.md) 
+
 </details> 
 
 <details><summary>SIEM</summary>
