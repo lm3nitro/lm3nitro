@@ -7,9 +7,7 @@ In my most recent role, I was a Network Engineer. I am currently seeking to leve
 
 My enthusiasm for cybersecurity stems from the constantly changing landscape of digital threats and the critical need to protect valuable assets and data. I actively seek out new techniques, tools, and methodologies to enhance security measures and stay ahead of emerging threats.
 
-I am continuously learning, actively engaging in industry forums, training programs, and certifications. This commitment to ongoing education empowers me to adapt to evolving security challenges and implement best practices that align with industry standards and regulations.
-
-I thrive on challenges that push boundaries and inspire innovative solutions. For me, each challenge is an opportunity for growth, and I am dedicated to contributing positively to the cybersecurity community.
+I am continuously learning, actively engaging in industry forums, training programs, and certifications. This commitment to ongoing education empowers me to adapt to evolving security challenges and implement best practices that align with industry standards and regulations. I thrive on challenges that push boundaries and inspire innovative solutions. For me, each challenge is an opportunity for growth, and I am dedicated to contributing positively to the cybersecurity community.
 
 <img width="1400" alt="Screenshot 2024-10-06 at 9 41 30 PM" src="https://github.com/user-attachments/assets/8b1f4d09-67b1-47b3-9f2b-a444d3d8f634">
 
