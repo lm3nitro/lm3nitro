@@ -15,7 +15,7 @@ I am personally drawn to challenges that push boundaries and inspire innovative 
 
 Click below to view the individual certifications:
 
-[<img src="https://img.shields.io/badge/CEH-%23CC0000?style=for-the-badge&logoColor=white" /></a>](https://github.com/lm3nitro/CyberLabs/blob/main/CEH%20cert.md)(https://aspen.eccouncil.org/VerifyBadge?type=certification&a=xcABGr1HD1B3O3hz87yMXQNbkmwUUA0sHvtWvRmOxtc=)  [<img src="https://img.shields.io/badge/CCNA-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>](https://www.credly.com/badges/17901b06-9db8-4d0a-913d-3ffd1555d2a5)  [<img src="https://img.shields.io/badge/Cisco%20CyberOps-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>](https://www.credly.com/badges/c60ec979-61e4-4ba9-b1ea-5acfc28f1c46)  [<img src="https://img.shields.io/badge/Network%2B-%23C8202F?style=for-the-badge&logo=comptia&logoColor=white" /></a>](https://www.credly.com/badges/b59409c5-f939-4186-be94-45abfb4cee13)  [<img src="https://img.shields.io/badge/Security%2B-%23C8202F?style=for-the-badge&logo=comptia" /></a>](https://www.credly.com/badges/e28b3153-e8a7-4dfa-ba0e-766297ea7355)
+[<img src="https://img.shields.io/badge/CEH-%23CC0000?style=for-the-badge&logoColor=white" /></a>](https://github.com/lm3nitro/CyberLabs/blob/main/CEH%20cert.md) [<img src="https://img.shields.io/badge/CCNA-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>](https://www.credly.com/badges/17901b06-9db8-4d0a-913d-3ffd1555d2a5)  [<img src="https://img.shields.io/badge/Cisco%20CyberOps-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>](https://www.credly.com/badges/c60ec979-61e4-4ba9-b1ea-5acfc28f1c46)  [<img src="https://img.shields.io/badge/Network%2B-%23C8202F?style=for-the-badge&logo=comptia&logoColor=white" /></a>](https://www.credly.com/badges/b59409c5-f939-4186-be94-45abfb4cee13)  [<img src="https://img.shields.io/badge/Security%2B-%23C8202F?style=for-the-badge&logo=comptia" /></a>](https://www.credly.com/badges/e28b3153-e8a7-4dfa-ba0e-766297ea7355)
 
 <img width="1400" alt="Screenshot 2024-10-06 at 9 31 18 PM" src="https://github.com/user-attachments/assets/fe0ab3a6-f202-40cf-b110-d10b18e2fffc">
 
@@ -164,10 +164,6 @@ Firewall | Routing & switching | Network Traffic Analysis | Proxy | Vulnerabilit
 <img width="1400" alt="Screenshot 2024-10-06 at 9 42 51 PM" src="https://github.com/user-attachments/assets/c8aa0c00-d4cf-4329-9386-3c8f5536df84">
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="100" height="100" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Camping.webp" alt="Camping" width="100" height="100" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chess%20Pawn.png" alt="Chess Pawn" width="100" height="100" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="100" height="100" />
-
-<img src="https://img.shields.io/badge/Chess-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=black" /></a>
-<img src="https://img.shields.io/badge/Classical%20Music-a18167?style=for-the-badge&logo=applemusic&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Hiking-%23143306?style=for-the-badge&logoColor=white" /></a>
 
 <img width="1400" alt="Screenshot 2024-10-06 at 9 43 15 PM" src="https://github.com/user-attachments/assets/1a160afb-7ff8-4dc3-88d7-1cb798af5302">
 
