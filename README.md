@@ -169,5 +169,3 @@ Firewall | Routing & switching | Network Traffic Analysis | Proxy | Vulnerabilit
 
 [<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>](https://www.linkedin.com/in/erick-x-gomez/)
 
-
-[<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" /></a>](https://www.linkedin.com/in/erick-x-gomez/)
