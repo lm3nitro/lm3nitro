@@ -65,6 +65,11 @@ Each of these sections can be expanded further to provide detailed insights into
 [RITA Install](https://github.com/lm3nitro/CyberLabs/tree/main/Rita) | [Threat Hunting with RITA](https://github.com/lm3nitro/CyberLabs/blob/main/Rita/Threat%20Hunting%20with%20RITA.md)
 </details>
 
+<details><summary>TCP Anomolies</summary>
+
+[TCP SYN Scan](https://github.com/lm3nitro/CyberLabs/blob/main/TCP%20Anomolies/TCP%20SYN%20Scan.md) | [TCP ACK Scan](https://github.com/lm3nitro/CyberLabs/blob/main/TCP%20Anomolies/TCP%20ACK%20Scan.md) | [TCP FIN Scan](https://github.com/lm3nitro/CyberLabs/blob/main/TCP%20Anomolies/TCP%20FIN%20Scan.md)
+</details>
+
 [Arkime](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md) | [Argus](https://github.com/lm3nitro/CyberLabs/blob/main/Argus.md)
 </details>
 
