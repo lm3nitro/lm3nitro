@@ -117,7 +117,7 @@ Each of these sections can be expanded further to provide detailed insights into
 
 <details><summary>Attack Emulation</summary>
 
-[Atomic Red Team](https://github.com/lm3nitro/CyberLabs/blob/main/Atomic%20Red%20Team.md)
+[Atomic Red Team](https://github.com/lm3nitro/CyberLabs/blob/main/Atomic%20Red%20Team.md) | [Bettercap](https://github.com/lm3nitro/Projects/blob/main/Penetration%20Testing/MITM/Bettercap.md) | [Hydra](https://github.com/lm3nitro/CyberLabs/blob/main/Hydra.md) | [WiFi Cracking](https://github.com/lm3nitro/CyberLabs/blob/main/Wifi%20Hacking.md) | [Windows SMB](https://github.com/lm3nitro/CyberLabs/blob/main/Windows%20SMB.md)
 </details> 
 
 <details><summary>Metasploit</summary>
@@ -125,12 +125,7 @@ Each of these sections can be expanded further to provide detailed insights into
 [Armitage](https://github.com/lm3nitro/CyberLabs/blob/main/Armitage.md) | [MSFvenom](https://github.com/lm3nitro/CyberLabs/blob/main/MSFvenom.md)
 </details>
 
-<details><summary>Penetration Testing</summary>
-
-[Hydra](https://github.com/lm3nitro/CyberLabs/blob/main/Hydra.md) | [WiFi Cracking](https://github.com/lm3nitro/CyberLabs/blob/main/Wifi%20Hacking.md) | [Windows SMB](https://github.com/lm3nitro/CyberLabs/blob/main/Windows%20SMB.md)
-</details>
-
-</details>
+</details> 
 
 <details><summary><img width="367" alt="Screenshot 2024-10-06 at 9 52 03 PM" src="https://github.com/user-attachments/assets/3c11457f-d216-4e51-8ef4-73ad4773f5d8">
 </summary>
