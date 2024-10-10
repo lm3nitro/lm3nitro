@@ -46,7 +46,7 @@ Each of these sections can be expanded further to provide detailed insights into
 
 <details><summary>IDS/IPS</summary>
 
-[Fail2Ban](https://github.com/lm3nitro/CyberLabs/blob/main/Fail2Ban.md) | [Snort](https://github.com/lm3nitro/CyberLabs/blob/main/Snort.md)
+[Fail2Ban](https://github.com/lm3nitro/CyberLabs/blob/main/Fail2Ban.md) | [Snort](https://github.com/lm3nitro/CyberLabs/blob/main/Snort.md) | [Suricata Install/Splunk](https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Install%20and%20Splunk%20Config.md)
 </details>
 
 <details><summary>Netflow</summary>
