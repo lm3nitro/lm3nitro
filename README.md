@@ -96,7 +96,7 @@ Each of these sections can be expanded further to provide detailed insights into
 
 <details><summary>Malware Analysis</summary>
 
-[Cuckoo Sandbox](https://github.com/lm3nitro/CyberLabs/blob/main/Cuckoo%20Sandbox/Cuckoo%20Sandbox.md))
+[Cuckoo Sandbox](https://github.com/lm3nitro/CyberLabs/blob/main/Cuckoo%20Sandbox/Cuckoo%20Sandbox.md)
 </details>
 
 <details><summary>Honeypot</summary>
