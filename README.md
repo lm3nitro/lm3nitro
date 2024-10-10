@@ -67,7 +67,7 @@ Each of these sections can be expanded further to provide detailed insights into
 
 <details><summary>TCP Anomolies</summary>
 
-[TCP SYN Scan](https://github.com/lm3nitro/CyberLabs/blob/main/TCP%20Anomolies/TCP%20SYN%20Scan.md) | [TCP ACK Scan](https://github.com/lm3nitro/CyberLabs/blob/main/TCP%20Anomolies/TCP%20ACK%20Scan.md) | [TCP FIN Scan](https://github.com/lm3nitro/CyberLabs/blob/main/TCP%20Anomolies/TCP%20FIN%20Scan.md)
+[TCP SYN Scan](https://github.com/lm3nitro/CyberLabs/blob/main/TCP%20Anomolies/TCP%20SYN%20Scan.md) | [TCP ACK Scan](https://github.com/lm3nitro/CyberLabs/blob/main/TCP%20Anomolies/TCP%20ACK%20Scan.md) | [TCP FIN Scan](https://github.com/lm3nitro/CyberLabs/blob/main/TCP%20Anomolies/TCP%20FIN%20Scan.md) | [TCP Xmas Scan](https://github.com/lm3nitro/CyberLabs/blob/main/TCP%20Anomolies/TCP%20Xmas%20Scan.md) | [TCP Reset Scan](https://github.com/lm3nitro/CyberLabs/blob/main/TCP%20Anomolies/TCP%20Reset%20Scan.md) | [TCP Fragmentation Scan](https://github.com/lm3nitro/CyberLabs/blob/main/TCP%20Anomolies/TCP%20Fragmentation%20Scan.md) | [TCP Null Scan](https://github.com/lm3nitro/CyberLabs/blob/main/TCP%20Anomolies/TCP%20Null%20Scan.md)
 </details>
 
 [Arkime](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md) | [Argus](https://github.com/lm3nitro/CyberLabs/blob/main/Argus.md)
