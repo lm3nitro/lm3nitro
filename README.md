@@ -164,12 +164,12 @@ Each of these sections can be expanded further to provide detailed insights into
 
 <img width="1400" alt="Screenshot 2024-10-06 at 9 33 23 PM" src="https://github.com/user-attachments/assets/0cf73887-9f47-4b17-bea0-1f7f5d64a7e0">
 
-+ Antisyphon 
++ **Antisyphon **
   - *Getting Started with Packet Decoding (September 2024)*
   - *SOC Core Skills (March 2022)*
   - *Active Defnse and Cyber Deception (January 2022)*
 
-+ EC-Council
++ **EC-Council**
   - *Certified Ethical Hacker Training (May 2021)*
    
 <img width="1400" alt="Screenshot 2024-10-06 at 9 33 54 PM" src="https://github.com/user-attachments/assets/bd75203a-5ccd-4cee-bdf9-66756678e96c">
