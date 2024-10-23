@@ -164,7 +164,7 @@ Each of these sections can be expanded further to provide detailed insights into
 <details><summary><img width="139" alt="Screenshot 2024-10-22 at 8 01 49 PM" src="https://github.com/user-attachments/assets/d2e6d587-87d6-4c8d-bb88-77e60b796a8d">
 </summary>
 
-<details><summary>Python and Scapy</summary>
+<details><summary>Python</summary>
 
 [Sending Range of Strings](https://github.com/lm3nitro/CyberLabs/blob/main/Scapy/Sending%20Range%20of%20Strings.md) | [Scapy SRC Port Scan](https://github.com/lm3nitro/CyberLabs/blob/main/Scapy/Scapy%20SRC%20Port%20Scan.md) | [Scapy Layer2 Discovery](https://github.com/lm3nitro/CyberLabs/blob/main/Scapy/Scapy%20Layer2%20Discovery.md) | [ICMP testing](https://github.com/lm3nitro/CyberLabs/blob/main/Scapy/ICMP%20testing.md) | [Fragmentation Testing](https://github.com/lm3nitro/CyberLabs/blob/main/Scapy/Fragmentation%20Testing.md) | [Firewall policy testing](https://github.com/lm3nitro/CyberLabs/blob/main/Scapy/Firewall%20policy%20testing.md) | [Custom Packet Crafting](https://github.com/lm3nitro/CyberLabs/blob/main/Scapy/Custom%20Packet%20Crafting.md)
 </details>
