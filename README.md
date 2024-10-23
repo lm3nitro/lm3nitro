@@ -161,6 +161,23 @@ Each of these sections can be expanded further to provide detailed insights into
 </details>
 
 </details>
+<details><summary><img width="139" alt="Screenshot 2024-10-22 at 8 01 49 PM" src="https://github.com/user-attachments/assets/d2e6d587-87d6-4c8d-bb88-77e60b796a8d">
+</summary>
+
+<details><summary>Python and Scapy</summary>
+
+[Sending Range of Strings](https://github.com/lm3nitro/CyberLabs/blob/main/Scapy/Sending%20Range%20of%20Strings.md) | [Scapy SRC Port Scan](https://github.com/lm3nitro/CyberLabs/blob/main/Scapy/Scapy%20SRC%20Port%20Scan.md) | [Scapy Layer2 Discovery](https://github.com/lm3nitro/CyberLabs/blob/main/Scapy/Scapy%20Layer2%20Discovery.md) | [ICMP testing](https://github.com/lm3nitro/CyberLabs/blob/main/Scapy/ICMP%20testing.md) | [Fragmentation Testing](https://github.com/lm3nitro/CyberLabs/blob/main/Scapy/Fragmentation%20Testing.md) | [Firewall policy testing](https://github.com/lm3nitro/CyberLabs/blob/main/Scapy/Firewall%20policy%20testing.md) | [Custom Packet Crafting](https://github.com/lm3nitro/CyberLabs/blob/main/Scapy/Custom%20Packet%20Crafting.md)
+</details>
+
+<details><summary>Bash</summary>
+
+[System Log Monitoring](https://github.com/lm3nitro/CyberLabs/blob/main/Bash/System%20Log%20Monitoring.md) | [Sendmail](https://github.com/lm3nitro/CyberLabs/blob/main/Bash/Sendmail.md) |[SSMTP Service Email](https://github.com/lm3nitro/CyberLabs/blob/main/Bash/SSMTP%20Service%20Email.md) | [Ping Sweep](https://github.com/lm3nitro/CyberLabs/blob/main/Bash/Ping%20Sweep.md) | [Host IDS](https://github.com/lm3nitro/CyberLabs/blob/main/Bash/Host%20IDS.md)
+
+</details>
+
+
+
+</details>
 
 <img width="1400" alt="Screenshot 2024-10-06 at 9 33 23 PM" src="https://github.com/user-attachments/assets/0cf73887-9f47-4b17-bea0-1f7f5d64a7e0">
 
