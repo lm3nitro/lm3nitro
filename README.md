@@ -31,7 +31,7 @@ Each of these sections can be expanded further to provide detailed insights into
 [Fortinet DPI](https://github.com/lm3nitro/CyberLabs/blob/main/Fortinet/Fortinet%20DPI.md) | [Fortinet Unboxing](https://github.com/lm3nitro/CyberLabs/blob/main/Fortinet/Unboxing%20Fortinet.md) | [Fortinet Logs to Splunk](https://github.com/lm3nitro/CyberLabs/blob/main/Fortinet/Fortinet%20Logs%20to%20Splunk.md)
 </details>
 
-[Palo Alto](https://github.com/lm3nitro/CyberLabs/tree/main/Palo%20Alto) | [pfSense](https://github.com/lm3nitro/CyberLabs/blob/main/pfSense/pfSense%20Install.md) | [UFW](https://github.com/lm3nitro/CyberLabs/blob/main/UFW.md)
+[Palo Alto](https://github.com/lm3nitro/CyberLabs/tree/main/Palo%20Alto) | [pfSense](https://github.com/lm3nitro/CyberLabs/blob/main/pfSense/pfSense%20Install.md) | [UFW](https://github.com/lm3nitro/CyberLabs/blob/main/UFW.md) | [Firewall Evasion](https://github.com/lm3nitro/CyberLabs/blob/main/Firewall%20Evasion.md)
 </details>
 
 <details><summary>Proxy</summary>
@@ -41,12 +41,13 @@ Each of these sections can be expanded further to provide detailed insights into
 [PolarProxy Install](https://github.com/lm3nitro/CyberLabs/blob/main/PolarProxy/Part%201-PolarProxy%20Install.md) | [PolarProxy with NetworkMiner](https://github.com/lm3nitro/CyberLabs/blob/main/PolarProxy/Part%202-PolarProxy%20with%20NetworkMiner.md)
 </details>
 
-[Squid Proxy](https://github.com/lm3nitro/CyberLabs/blob/main/Squid%20Proxy/Squid%20Proxy.md) | [mimproxy](https://github.com/lm3nitro/CyberLabs/blob/main/mitmproxy.md)
+[Squid Proxy](https://github.com/lm3nitro/CyberLabs/blob/main/Squid%20Proxy/Squid%20Proxy.md) | [mimproxy](https://github.com/lm3nitro/CyberLabs/blob/main/mitmproxy.md) | [HTTP Aache Proxy](https://github.com/lm3nitro/CyberLabs/blob/main/Apache%20HTTP.md)
 </details>
 
 <details><summary>IDS/IPS</summary>
 
-[Fail2Ban](https://github.com/lm3nitro/CyberLabs/blob/main/Fail2Ban.md) | [Snort](https://github.com/lm3nitro/CyberLabs/blob/main/Snort.md) | [Suricata Install/Splunk](https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Install%20and%20Splunk%20Config.md)
+[Fail2Ban](https://github.com/lm3nitro/CyberLabs/blob/main/Fail2Ban.md) | [Snort](https://github.com/lm3nitro/CyberLabs/blob/main/Snort.md) | [Suricata Install/Splunk](https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Install%20and%20Splunk%20Config.md) | [Suricata Rule Development](
+https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Rule%20Development.md) 
 </details>
 
 <details><summary>Netflow</summary>
@@ -62,7 +63,7 @@ Each of these sections can be expanded further to provide detailed insights into
 <details><summary>Network Traffic Analysis</summary>
 <details><summary>Rita</summary>
 
-[RITA Install](https://github.com/lm3nitro/CyberLabs/tree/main/Rita) | [Threat Hunting with RITA](https://github.com/lm3nitro/CyberLabs/blob/main/Rita/Threat%20Hunting%20with%20RITA.md)
+[RITA Install](https://github.com/lm3nitro/CyberLabs/tree/main/Rita) | [Threat Hunting with RITA](https://github.com/lm3nitro/CyberLabs/blob/main/Rita/Threat%20Hunting%20with%20RITA.md) | [Rita v5](https://github.com/lm3nitro/CyberLabs/blob/main/Rita/RITA%20v5.md)
 </details>
 
 <details><summary>TCP Anomolies</summary>
@@ -70,7 +71,17 @@ Each of these sections can be expanded further to provide detailed insights into
 [TCP SYN Scan](https://github.com/lm3nitro/CyberLabs/blob/main/TCP%20Anomolies/TCP%20SYN%20Scan.md) | [TCP ACK Scan](https://github.com/lm3nitro/CyberLabs/blob/main/TCP%20Anomolies/TCP%20ACK%20Scan.md) | [TCP FIN Scan](https://github.com/lm3nitro/CyberLabs/blob/main/TCP%20Anomolies/TCP%20FIN%20Scan.md) | [TCP Xmas Scan](https://github.com/lm3nitro/CyberLabs/blob/main/TCP%20Anomolies/TCP%20Xmas%20Scan.md) | [TCP Reset Scan](https://github.com/lm3nitro/CyberLabs/blob/main/TCP%20Anomolies/TCP%20Reset%20Scan.md) | [TCP Fragmentation Scan](https://github.com/lm3nitro/CyberLabs/blob/main/TCP%20Anomolies/TCP%20Fragmentation%20Scan.md) | [TCP Null Scan](https://github.com/lm3nitro/CyberLabs/blob/main/TCP%20Anomolies/TCP%20Null%20Scan.md) | [TCP SYN flood with Port Sweep](https://github.com/lm3nitro/CyberLabs/blob/main/TCP%20Anomolies/TCP%20SYN%20flood%20with%20Port%20Sweep.md) | [Land Attack](https://github.com/lm3nitro/CyberLabs/blob/main/TCP%20Anomolies/Land%20Attack.md) | [TCP Hijacking](https://github.com/lm3nitro/CyberLabs/blob/main/TCP%20Anomolies/TCP%20Hijacking.md)
 </details>
 
-[Arkime](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md) | [Argus](https://github.com/lm3nitro/CyberLabs/blob/main/Argus.md)
+<details><summary>UDP Anomolies</summary>
+    
+[UDP Anomolies](https://github.com/lm3nitro/CyberLabs/blob/main/UDP%20Anomalies.md)
+</details>
+
+<details><summary>Tunneling</summary>
+    
+[DNS Tunneling](https://github.com/lm3nitro/CyberLabs/blob/main/Tunneling/DNS%20Tunneling.md) | [ICMP Tunneling](https://github.com/lm3nitro/CyberLabs/blob/main/Tunneling/ICMP%20Tunnelling.md)
+</details>
+
+[Arkime](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md) | [Argus](https://github.com/lm3nitro/CyberLabs/blob/main/Argus.md) | [Macof](https://github.com/lm3nitro/CyberLabs/blob/main/Macof.md)
 </details>
 
 <details><summary>Network Monitoring</summary>
@@ -91,7 +102,14 @@ Each of these sections can be expanded further to provide detailed insights into
 
 <details><summary>Vulnerability Management Analysis</summary>
 
-[Nikto](https://github.com/lm3nitro/CyberLabs/blob/main/Nikto.md) | [Nessus](https://github.com/lm3nitro/CyberLabs/blob/main/Nessus.md) | [Nmap](https://github.com/lm3nitro/CyberLabs/blob/main/Nmap.md) | [Gobuster](https://github.com/lm3nitro/CyberLabs/blob/main/Gobuster.md) | [OpenVAS](https://github.com/lm3nitro/CyberLabs/blob/main/OpenVAS.md) | [ZAP](https://github.com/lm3nitro/CyberLabs/blob/main/ZAP.md)   
+[Nikto](https://github.com/lm3nitro/CyberLabs/blob/main/Nikto.md) | [Nessus](https://github.com/lm3nitro/CyberLabs/blob/main/Nessus.md) | [Nmap](https://github.com/lm3nitro/CyberLabs/blob/main/Nmap.md) | [Gobuster](https://github.com/lm3nitro/CyberLabs/blob/main/Gobuster.md) | [OpenVAS](https://github.com/lm3nitro/CyberLabs/blob/main/OpenVAS.md) | [ZAP](https://github.com/lm3nitro/CyberLabs/blob/main/ZAP.md) 
+
+<details><summary>Service Misconfigurations</summary>
+
+[FTP](https://github.com/lm3nitro/CyberLabs/blob/main/Network%20Service%20Misconfigurations/FTP.md) | [NFS](https://github.com/lm3nitro/CyberLabs/blob/main/Network%20Service%20Misconfigurations/NFS.md) | [SMB](https://github.com/lm3nitro/CyberLabs/blob/main/Network%20Service%20Misconfigurations/SMB.md) | [SMTP](https://github.com/lm3nitro/CyberLabs/blob/main/Network%20Service%20Misconfigurations/SMTP.md) | [Telnet](https://github.com/lm3nitro/CyberLabs/blob/main/Network%20Service%20Misconfigurations/Telnet.md)
+</details>
+
+
 </details>
 
 <details><summary>Malware Analysis</summary>
