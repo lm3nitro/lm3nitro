@@ -1,11 +1,11 @@
 <img width="1400" alt="Screenshot 2024-10-06 at 9 45 43 PM" src="https://github.com/user-attachments/assets/9516123d-8b5e-4ec2-9d8c-670a95d27b1a">
 
 <br><br>
-I grew up playing chess my whole life. Playing chess allowed me to network with many people and made it so that I was able to meet someone that introduced me to networking at the age of 14. I have had a passion for networking and seeing how IP communicates ever since. From a young age, my curiosity drove me to explore how things work, leading to countless hours spent reverse engineering systems and understanding their significance. This fascination has evolved into a deep appreciation for analyzing network traffic, which naturally transitioned into a passion for cybersecurity.
+I have had a passion for networking and seeing how IP communicates ever since. From a young age, my curiosity drove me to explore how things work, leading to countless hours spent reverse engineering systems and understanding their significance. This fascination evolved into a deep appreciation for analyzing network traffic, which naturally transitioned into a passion for cybersecurity.
 
 In my most recent role, I was a Network Engineer. I am currently seeking to leverage my expertise in networking and expand into the dynamic field of cybersecurity. My journey encompasses a diverse range of projects and experiences, where I have honed my skills in areas such as virtualization, proxy technologies, firewall configuration, IDS/IPS implementations, SIEM integration, and more.
 
-My enthusiasm for cybersecurity stems from the constantly changing landscape of digital threats and the critical need to protect valuable assets and data. I actively seek out new techniques, tools, and methodologies to enhance security measures and stay ahead of emerging threats.
+<!-- My enthusiasm for cybersecurity stems from the constantly changing landscape of digital threats and the critical need to protect valuable assets and data. I actively seek out new techniques, tools, and methodologies to enhance security measures and stay ahead of emerging threats. -->
 
 I am continuously learning, actively engaging in industry forums, training programs, and certifications. This commitment to ongoing education empowers me to adapt to evolving security challenges and implement best practices that align with industry standards and regulations. I thrive on challenges that push boundaries and inspire innovative solutions. For me, each challenge is an opportunity for growth, and I am dedicated to contributing positively to the cybersecurity community.
 
