@@ -213,7 +213,12 @@ https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Rule%20Devel
 
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="1400">
 
-Firewall | Routing & switching | Network Traffic Analysis | Proxy | Vulnerability Management and Analysis | IDS & IPS | System Administration | Penetration Testing | 
++ **Network Traffic Analysis** (Wireshark, Tcpdump, NetFlow, Packet Analysis, etc)
++ **Firewall & Proxy** (Palo Alto, Fortinet, Transparent Proxy, etc)
++ **Scripting & Automation** (Python and Bash)
++ **Routing & Switching** (OSPF, BGP, VLANs, etc)
++ **Threat Hunting, Log Analysis, & Vulnerability Management** (SIEM, IDS/IPS, Vulnerability assessment, etc)
++ **Soft Skills** (Attention to Detail, Critical Thinking, Problem-Solving, Collaboration and Teamwork)
 
 <img width="1400" alt="Screenshot 2024-10-06 at 9 42 51 PM" src="https://github.com/user-attachments/assets/c8aa0c00-d4cf-4329-9386-3c8f5536df84">
 
