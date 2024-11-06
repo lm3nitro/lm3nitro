@@ -61,6 +61,9 @@ https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Rule%20Devel
 </details> 
 
 <details><summary>Network Traffic Analysis</summary>
+
+[Arkime](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md) | [Argus](https://github.com/lm3nitro/CyberLabs/blob/main/Argus.md) | [Macof](https://github.com/lm3nitro/CyberLabs/blob/main/Macof.md)
+
 <details><summary>Rita</summary>
 
 [RITA Install](https://github.com/lm3nitro/CyberLabs/tree/main/Rita) | [Threat Hunting with RITA](https://github.com/lm3nitro/CyberLabs/blob/main/Rita/Threat%20Hunting%20with%20RITA.md) | [Rita v5](https://github.com/lm3nitro/CyberLabs/blob/main/Rita/RITA%20v5.md)
@@ -81,7 +84,6 @@ https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Rule%20Devel
 [DNS Tunneling](https://github.com/lm3nitro/CyberLabs/blob/main/Tunneling/DNS%20Tunneling.md) | [ICMP Tunneling](https://github.com/lm3nitro/CyberLabs/blob/main/Tunneling/ICMP%20Tunnelling.md)
 </details>
 
-[Arkime](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md) | [Argus](https://github.com/lm3nitro/CyberLabs/blob/main/Argus.md) | [Macof](https://github.com/lm3nitro/CyberLabs/blob/main/Macof.md)
 </details>
 
 <details><summary>Network Monitoring</summary>
