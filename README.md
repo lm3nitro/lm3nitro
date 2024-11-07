@@ -41,7 +41,7 @@ Each of these sections can be expanded further to provide detailed insights into
 [PolarProxy Install](https://github.com/lm3nitro/CyberLabs/blob/main/PolarProxy/Part%201-PolarProxy%20Install.md) | [PolarProxy with NetworkMiner](https://github.com/lm3nitro/CyberLabs/blob/main/PolarProxy/Part%202-PolarProxy%20with%20NetworkMiner.md)
 </details>
 
-[Squid Proxy](https://github.com/lm3nitro/CyberLabs/blob/main/Squid%20Proxy/Squid%20Proxy.md) | [mimproxy](https://github.com/lm3nitro/CyberLabs/blob/main/mitmproxy.md) | [HTTP Aache Proxy](https://github.com/lm3nitro/CyberLabs/blob/main/Apache%20HTTP.md)
+[Squid Proxy](https://github.com/lm3nitro/CyberLabs/blob/main/Squid%20Proxy/Squid%20Proxy.md) | [mimproxy](https://github.com/lm3nitro/CyberLabs/blob/main/mitmproxy.md) | [HTTP Aache Proxy](https://github.com/lm3nitro/CyberLabs/blob/main/Apache%20HTTP.md) | [Squid SSL Bump](https://github.com/lm3nitro/CyberLabs/blob/main/Squid%20Proxy/Squid%20SSL%20Bump.md)
 </details>
 
 <details><summary>IDS/IPS</summary>
