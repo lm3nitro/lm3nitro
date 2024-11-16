@@ -228,15 +228,13 @@ https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Rule%20Devel
 
 <img width="1400" alt="Screenshot 2024-10-06 at 9 42 51 PM" src="https://github.com/user-attachments/assets/c8aa0c00-d4cf-4329-9386-3c8f5536df84">
 
-![image](https://github.com/user-attachments/assets/8529fad5-818a-4a78-bc58-568a8da0349e)![image](https://github.com/user-attachments/assets/357930cd-e92d-47f6-a053-a256a488716e)![image](https://github.com/user-attachments/assets/1ef40ae0-142d-4f4d-b1ba-40740b15d1e9)![image](https://github.com/user-attachments/assets/d7e7c0ee-abaf-411d-9c52-b009b44356e2)
-
-
-
-
+<img width="99" alt="camp" src="https://github.com/user-attachments/assets/947f5726-507c-4fb9-9a5e-b26de2de40f6">
+<img width="93" alt="Music" src="https://github.com/user-attachments/assets/3f41419e-fd00-4bb0-9f52-a11e0a632296">
+<img width="78" alt="books" src="https://github.com/user-attachments/assets/1428c93e-5c56-4ce6-991d-4b43f93c4a36">
+<img width="108" alt="chess" src="https://github.com/user-attachments/assets/ef517b2a-597e-43ff-87f5-af36b4999ce9">
 
 
 
 <img width="1400" alt="Screenshot 2024-10-06 at 9 43 15 PM" src="https://github.com/user-attachments/assets/1a160afb-7ff8-4dc3-88d7-1cb798af5302">
 
 [<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>](https://www.linkedin.com/in/erick-x-gomez/)
-
