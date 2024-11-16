@@ -181,7 +181,7 @@ https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Rule%20Devel
 
 <details><summary>System Monitoring</summary>
 
-[Sysmon](https://github.com/lm3nitro/CyberLabs/tree/main/Sysmon)
+[Sysmon Install](https://github.com/lm3nitro/CyberLabs/blob/main/Sysmon/Part%201-%20Sysmon%20Install%20and%20Configuration.md) | [Sysmon logs to Splunk](https://github.com/lm3nitro/CyberLabs/blob/main/Sysmon/Part%202-%20Sending%20Sysmon%20logs%20to%20Splunk.md)
 </details>
 
 </details>
