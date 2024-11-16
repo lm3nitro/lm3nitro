@@ -66,7 +66,7 @@ https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Rule%20Devel
 
 <details><summary>Rita</summary>
 
-[RITA Install](https://github.com/lm3nitro/CyberLabs/tree/main/Rita) | [Threat Hunting with RITA](https://github.com/lm3nitro/CyberLabs/blob/main/Rita/Threat%20Hunting%20with%20RITA.md) | [Rita v5](https://github.com/lm3nitro/CyberLabs/blob/main/Rita/RITA%20v5.md)
+[RITA Install](https://github.com/lm3nitro/CyberLabs/blob/main/Rita/Rita%20Install.md) | [Threat Hunting with RITA](https://github.com/lm3nitro/CyberLabs/blob/main/Rita/Threat%20Hunting%20with%20RITA.md) | [Rita v5](https://github.com/lm3nitro/CyberLabs/blob/main/Rita/RITA%20v5.md)
 </details>
 
 <details><summary>TCP Anomolies</summary>
