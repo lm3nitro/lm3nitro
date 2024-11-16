@@ -52,7 +52,7 @@ https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Rule%20Devel
 
 <details><summary>Netflow</summary>
 
-[SiLK Standalone](https://github.com/lm3nitro/CyberLabs/blob/main/SiLK/Standalone%20SiLK%20and%20TAP.md) | [Graylog](https://github.com/lm3nitro/CyberLabs/blob/main/Graylog.md) | [Cisco Netflow](https://github.com/lm3nitro/CyberLabs/blob/main/Cisco%20Netflow.md)
+[SiLK Standalone](https://github.com/lm3nitro/CyberLabs/blob/main/SiLK/Standalone%20SiLK%20and%20TAP.md) | [Graylog](https://github.com/lm3nitro/CyberLabs/blob/main/Graylog.md) | [Cisco Netflow](https://github.com/lm3nitro/CyberLabs/blob/main/Cisco%20Netflow.md) | [SiLK](https://github.com/lm3nitro/CyberLabs/blob/main/SiLK/SiLK.md)
 </details>
 
 <details><summary>DNS</summary>
@@ -62,7 +62,7 @@ https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Rule%20Devel
 
 <details><summary>Network Traffic Analysis</summary>
 
-[Arkime](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md) | [Argus](https://github.com/lm3nitro/CyberLabs/blob/main/Argus.md) | [Macof](https://github.com/lm3nitro/CyberLabs/blob/main/Macof.md)
+[Arkime](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md) | [Argus](https://github.com/lm3nitro/CyberLabs/blob/main/Argus.md) | [Nfdump](https://github.com/lm3nitro/CyberLabs/blob/main/Nfdump%20Install.md) 
 
 <details><summary>Rita</summary>
 
@@ -142,7 +142,7 @@ https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Rule%20Devel
 
 <details><summary>Attack Emulation</summary>
 
-[Atomic Red Team](https://github.com/lm3nitro/CyberLabs/blob/main/Atomic%20Red%20Team.md) | [Bettercap](https://github.com/lm3nitro/Projects/blob/main/Penetration%20Testing/MITM/Bettercap.md) | [Hydra](https://github.com/lm3nitro/CyberLabs/blob/main/Hydra.md) | [WiFi Cracking](https://github.com/lm3nitro/CyberLabs/blob/main/Wifi%20Hacking.md) | [Windows SMB](https://github.com/lm3nitro/CyberLabs/blob/main/Windows%20SMB.md) | [DDOS Attack](https://github.com/lm3nitro/CyberLabs/blob/main/DDOS%20Attack.md)
+[Atomic Red Team](https://github.com/lm3nitro/CyberLabs/blob/main/Atomic%20Red%20Team.md) | [Bettercap](https://github.com/lm3nitro/Projects/blob/main/Penetration%20Testing/MITM/Bettercap.md) | [Hydra](https://github.com/lm3nitro/CyberLabs/blob/main/Hydra.md) | [WiFi Cracking](https://github.com/lm3nitro/CyberLabs/blob/main/Wifi%20Hacking.md) | [Windows SMB](https://github.com/lm3nitro/CyberLabs/blob/main/Windows%20SMB.md) | [DDOS Attack](https://github.com/lm3nitro/CyberLabs/blob/main/DDOS%20Attack.md) | [Macof](https://github.com/lm3nitro/CyberLabs/blob/main/Macof.md) 
 </details> 
 
 <details><summary>Metasploit</summary>
@@ -161,8 +161,12 @@ https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Rule%20Devel
 </details>
 
 <details><summary>Routing and Switching</summary>
+<details><summary>Netgear</summary>
+    
+[Part 1-Netgear Span Port](https://github.com/lm3nitro/CyberLabs/blob/main/Netgear/Part%201-Netgear%20Span%20Port.md) | [Part 2-Windows Sniffing Interface](https://github.com/lm3nitro/CyberLabs/blob/main/Netgear/Part%202-Windows%20Sniffing%20Interface.md) | [Part 3- Linux Sniffing Interface](https://github.com/lm3nitro/CyberLabs/blob/main/Netgear/Part%203-%20Linux%20Sniffing%20Interface.md)
+</details>
 
-[Cisco Password Recovery](https://github.com/lm3nitro/CyberLabs/blob/main/Cisco/Password%20Recovery.md) | [VXLAN](https://github.com/lm3nitro/CyberLabs/blob/main/VXLAN/Intro.md)
+[Cisco Password Recovery](https://github.com/lm3nitro/CyberLabs/blob/main/Cisco/Password%20Recovery.md) | [VXLAN](https://github.com/lm3nitro/CyberLabs/blob/main/VXLAN/Intro.md) | [Ubiquiti](https://github.com/lm3nitro/CyberLabs/blob/main/Ubiquiti.md) 
 </details>
 
 <details><summary>MySQL</summary>
@@ -186,16 +190,18 @@ https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Rule%20Devel
 
 <details><summary>Python</summary>
 
-[Sending Range of Strings](https://github.com/lm3nitro/CyberLabs/blob/main/Scapy/Sending%20Range%20of%20Strings.md) | [Scapy SRC Port Scan](https://github.com/lm3nitro/CyberLabs/blob/main/Scapy/Scapy%20SRC%20Port%20Scan.md) | [Scapy Layer2 Discovery](https://github.com/lm3nitro/CyberLabs/blob/main/Scapy/Scapy%20Layer2%20Discovery.md) | [ICMP testing](https://github.com/lm3nitro/CyberLabs/blob/main/Scapy/ICMP%20testing.md) | [Fragmentation Testing](https://github.com/lm3nitro/CyberLabs/blob/main/Scapy/Fragmentation%20Testing.md) | [Firewall policy testing](https://github.com/lm3nitro/CyberLabs/blob/main/Scapy/Firewall%20policy%20testing.md) | [Custom Packet Crafting](https://github.com/lm3nitro/CyberLabs/blob/main/Scapy/Custom%20Packet%20Crafting.md)
+[Sending Range of Strings](https://github.com/lm3nitro/CyberLabs/blob/main/Scapy/Sending%20Range%20of%20Strings.md) | [Scapy SRC Port Scan](https://github.com/lm3nitro/CyberLabs/blob/main/Scapy/Scapy%20SRC%20Port%20Scan.md) | [Scapy Layer2 Discovery](https://github.com/lm3nitro/CyberLabs/blob/main/Scapy/Scapy%20Layer2%20Discovery.md) | [ICMP testing](https://github.com/lm3nitro/CyberLabs/blob/main/Scapy/ICMP%20testing.md) | [Fragmentation Testing](https://github.com/lm3nitro/CyberLabs/blob/main/Scapy/Fragmentation%20Testing.md) | [Firewall policy testing](https://github.com/lm3nitro/CyberLabs/blob/main/Scapy/Firewall%20policy%20testing.md) | [Custom Packet Crafting](https://github.com/lm3nitro/CyberLabs/blob/main/Scapy/Custom%20Packet%20Crafting.md) | [Client and Server Sockets](https://github.com/lm3nitro/CyberLabs/blob/main/Client%20and%20Server%20Sockets.md)
 </details>
 
 <details><summary>Bash</summary>
 
-[System Log Monitoring](https://github.com/lm3nitro/CyberLabs/blob/main/Bash/System%20Log%20Monitoring.md) | [Sendmail](https://github.com/lm3nitro/CyberLabs/blob/main/Bash/Sendmail.md) |[SSMTP Service Email](https://github.com/lm3nitro/CyberLabs/blob/main/Bash/SSMTP%20Service%20Email.md) | [Ping Sweep](https://github.com/lm3nitro/CyberLabs/blob/main/Bash/Ping%20Sweep.md) | [Host IDS](https://github.com/lm3nitro/CyberLabs/blob/main/Bash/Host%20IDS.md)
+[System Log Monitoring](https://github.com/lm3nitro/CyberLabs/blob/main/Bash/System%20Log%20Monitoring.md) | [Sendmail](https://github.com/lm3nitro/CyberLabs/blob/main/Bash/Sendmail.md) |[SSMTP Service Email](https://github.com/lm3nitro/CyberLabs/blob/main/Bash/SSMTP%20Service%20Email.md) | [Ping Sweep](https://github.com/lm3nitro/CyberLabs/blob/main/Bash/Ping%20Sweep.md) | [Host IDS](https://github.com/lm3nitro/CyberLabs/blob/main/Bash/Host%20IDS.md) | [arping](https://github.com/lm3nitro/CyberLabs/blob/main/Bash/arping.md) 
 
+<details><summary>Bash Fundamental</summary>
+
+[Intro](https://github.com/lm3nitro/CyberLabs/blob/main/Bash%20Fundamentals/1-Intro.md) | [Variables](https://github.com/lm3nitro/CyberLabs/blob/main/Bash%20Fundamentals/2-Bash%20Variables.md) | [User Input](https://github.com/lm3nitro/CyberLabs/blob/main/Bash%20Fundamentals/3-Bash%20User%20Input.md) | [Loops](https://github.com/lm3nitro/CyberLabs/blob/main/Bash%20Fundamentals/4-Bash%20Loops.md) | [Loops Continue and Break](https://github.com/lm3nitro/CyberLabs/blob/main/Bash%20Fundamentals/5-Bash%20Loops%20Continue%20and%20Break.md) | [Functions](https://github.com/lm3nitro/CyberLabs/blob/main/Bash%20Fundamentals/6-Bash%20Functions.md) | [Conditionals](https://github.com/lm3nitro/CyberLabs/blob/main/Bash%20Fundamentals/7-Bash%20Conditionals.md) | [Conditional Expressions](https://github.com/lm3nitro/CyberLabs/blob/main/Bash%20Fundamentals/8-Bash%20Conditional%20Expressions.md) | [Comments](https://github.com/lm3nitro/CyberLabs/blob/main/Bash%20Fundamentals/9-Bash%20Comments.md) | [Arrays](https://github.com/lm3nitro/CyberLabs/blob/main/Bash%20Fundamentals/10-Bash%20Arrays.md) | [Arguments](https://github.com/lm3nitro/CyberLabs/blob/main/Bash%20Fundamentals/11-Bash%20Arguments.md) | [Arithmetic Operations](https://github.com/lm3nitro/CyberLabs/blob/main/Bash%20Fundamentals/12-Arithmetic%20Operations.md) 
 </details>
-
-
+</details>
 
 </details>
 
