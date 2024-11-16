@@ -31,7 +31,7 @@ Each of these sections can be expanded further to provide detailed insights into
 [Fortinet DPI](https://github.com/lm3nitro/CyberLabs/blob/main/Fortinet/Fortinet%20DPI.md) | [Fortinet Unboxing](https://github.com/lm3nitro/CyberLabs/blob/main/Fortinet/Unboxing%20Fortinet.md) | [Fortinet Logs to Splunk](https://github.com/lm3nitro/CyberLabs/blob/main/Fortinet/Fortinet%20Logs%20to%20Splunk.md)
 </details>
 
-[Palo Alto](https://github.com/lm3nitro/CyberLabs/tree/main/Palo%20Alto) | [pfSense](https://github.com/lm3nitro/CyberLabs/blob/main/pfSense/pfSense%20Install.md) | [UFW](https://github.com/lm3nitro/CyberLabs/blob/main/UFW.md) | [Firewall Evasion](https://github.com/lm3nitro/CyberLabs/blob/main/Firewall%20Evasion.md)
+[Palo Alto](https://github.com/lm3nitro/CyberLabs/blob/main/Palo%20Alto/Palo%20Alto.md) | [pfSense](https://github.com/lm3nitro/CyberLabs/blob/main/pfSense/pfSense%20Install.md) | [UFW](https://github.com/lm3nitro/CyberLabs/blob/main/UFW.md) | [Firewall Evasion](https://github.com/lm3nitro/CyberLabs/blob/main/Firewall%20Evasion.md)
 </details>
 
 <details><summary>Proxy</summary>
