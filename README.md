@@ -87,7 +87,7 @@ https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Rule%20Devel
 
 <details><summary>Tunneling</summary>
     
-[DNS Tunneling](https://github.com/lm3nitro/CyberLabs/blob/main/Tunneling/DNS%20Tunneling.md) | [ICMP Tunneling](https://github.com/lm3nitro/CyberLabs/blob/main/Tunneling/ICMP%20Tunnelling.md)
+[DNS Tunneling](https://github.com/lm3nitro/CyberLabs/blob/main/Tunneling/DNS%20Tunneling.md) | [ICMP Tunneling](https://github.com/lm3nitro/CyberLabs/blob/main/Tunneling/ICMP%20Tunnelling.md) | [Telnet Tunneling](https://github.com/lm3nitro/CyberLabs/blob/main/Tunneling/Telnet%20Tunneling.md)
 </details>
 
 </details>
