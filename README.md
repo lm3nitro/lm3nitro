@@ -1,18 +1,27 @@
-
+<div align="center">
 <h1>Hi, I'm Erick...</h1>
+</div>
 
 <br><br>
 I have had a passion for networking from a young age. This fascination evolved into a deep appreciation for analyzing network traffic, which naturally transitioned into a passion for cybersecurity. I am currently seeking to leverage my expertise in networking and expand into the dynamic field of cybersecurity. My journey encompasses a diverse range of projects and experiences, where I have honed my skills in areas such as virtualization, proxy technologies, firewall configuration, IDS/IPS implementations, SIEM integration, and more.
 
 I am continuously learning, actively engaging in industry forums, training programs, and certifications. For me, each challenge is an opportunity for growth, and I am dedicated to contributing positively to the cybersecurity community.
 
-<img width="1400" alt="Screenshot 2024-10-06 at 9 41 30 PM" src="https://github.com/user-attachments/assets/8b1f4d09-67b1-47b3-9f2b-a444d3d8f634">
+<div align="center">
+<h2>C E R T I F I C A T I O N S</h1>
+</div>
+
+<div align="center">
 
 Click below to view the individual certifications:
 
 [<img src="https://img.shields.io/badge/CEH-%23CC0000?style=for-the-badge&logoColor=white" /></a>](https://github.com/lm3nitro/CyberLabs/blob/main/CEH%20cert.md) [<img src="https://img.shields.io/badge/CCNA-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>](https://www.credly.com/badges/17901b06-9db8-4d0a-913d-3ffd1555d2a5)  [<img src="https://img.shields.io/badge/Cisco%20CyberOps-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>](https://www.credly.com/badges/c60ec979-61e4-4ba9-b1ea-5acfc28f1c46)  [<img src="https://img.shields.io/badge/Network%2B-%23C8202F?style=for-the-badge&logo=comptia&logoColor=white" /></a>](https://www.credly.com/badges/b59409c5-f939-4186-be94-45abfb4cee13)  [<img src="https://img.shields.io/badge/Security%2B-%23C8202F?style=for-the-badge&logo=comptia" /></a>](https://www.credly.com/badges/e28b3153-e8a7-4dfa-ba0e-766297ea7355)
 
-<img width="1400" alt="Screenshot 2024-10-06 at 9 31 18 PM" src="https://github.com/user-attachments/assets/fe0ab3a6-f202-40cf-b110-d10b18e2fffc">
+</div>
+
+<div align="center">
+<h2>P R O J E C T S</h1>
+</div>
 
 The following projects and exercises were conducted within my own network and virtual environment. I utilized VMware ESXi as the core platform, which I installed, patched, and configured as a Type 1 hypervisor to support various virtual machines (VMs) and tools. Additionally, I acquired other essential equipment, including routers, switches, and various firewalls, to enhance the network infrastructure. This combination of physical hardware and virtual resources created a robust, flexible, and scalable environment that was ideal for a wide range of testing and development scenarios.
 
@@ -201,20 +210,10 @@ https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Rule%20Devel
 </details>
 
 </details>
-
-<img width="1400" alt="Screenshot 2024-10-06 at 9 33 23 PM" src="https://github.com/user-attachments/assets/0cf73887-9f47-4b17-bea0-1f7f5d64a7e0">
-
-+ **Antisyphon**
-  - *Getting Started with Packet Decoding (September 2024)*
-  - *SOC Core Skills (March 2022)*
-  - *Active Defnse and Cyber Deception (January 2022)*
-
-+ **EC-Council**
-  - *Certified Ethical Hacker Training (May 2021)*
    
-<img width="1400" alt="Screenshot 2024-10-06 at 9 33 54 PM" src="https://github.com/user-attachments/assets/bd75203a-5ccd-4cee-bdf9-66756678e96c">
-
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="1400">
+<div align="center">
+<h2>S K I L L S</h1>
+</div>
 
 + **Network Traffic Analysis** (Wireshark, Tcpdump, NetFlow, Packet Analysis, etc)
 + **Firewall & Proxy** (Palo Alto, Fortinet, Transparent Proxy, etc)
@@ -223,15 +222,24 @@ https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Rule%20Devel
 + **Threat Hunting, Log Analysis, & Vulnerability Management** (SIEM, IDS/IPS, Vulnerability assessment, etc)
 + **Soft Skills** (Attention to Detail, Critical Thinking, Problem-Solving, Collaboration and Teamwork)
 
-<img width="1400" alt="Screenshot 2024-10-06 at 9 42 51 PM" src="https://github.com/user-attachments/assets/c8aa0c00-d4cf-4329-9386-3c8f5536df84">
+<div align="center">
+<h2>H O B B I E S</h1>
+</div>
+
+<div align="center">
 
 <img width="99" alt="camp" src="https://github.com/user-attachments/assets/947f5726-507c-4fb9-9a5e-b26de2de40f6">
 <img width="93" alt="Music" src="https://github.com/user-attachments/assets/3f41419e-fd00-4bb0-9f52-a11e0a632296">
 <img width="78" alt="books" src="https://github.com/user-attachments/assets/1428c93e-5c56-4ce6-991d-4b43f93c4a36">
 <img width="108" alt="chess" src="https://github.com/user-attachments/assets/ef517b2a-597e-43ff-87f5-af36b4999ce9">
 
+</div>
+<div align="center">
+<h2>C O N T A C T</h1>
+</div>
 
-
-<img width="1400" alt="Screenshot 2024-10-06 at 9 43 15 PM" src="https://github.com/user-attachments/assets/1a160afb-7ff8-4dc3-88d7-1cb798af5302">
+<div align="center">
 
 [<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>](https://www.linkedin.com/in/erick-x-gomez/)
+
+</div>
