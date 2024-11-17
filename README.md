@@ -27,7 +27,7 @@ The following projects and exercises were conducted within my own network and vi
 
 Each of these sections can be expanded further to provide detailed insights into methodologies, tools used, and specific outcomes achieved throughout the projects and exercises.
 
-<details><summary><img width="243" alt="Screenshot 2024-10-06 at 9 48 53 PM" src="https://github.com/user-attachments/assets/ff1c0713-7f58-4107-9517-b7182d59fdea">
+<details><summary><h3>NETWORK SECURITY</h3>
 </summary>
 
 <details><summary>Firewall</summary>
@@ -105,7 +105,7 @@ https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Rule%20Devel
 
 </details>
 
-<details><summary><img width="455" alt="Screenshot 2024-10-06 at 9 51 25 PM" src="https://github.com/user-attachments/assets/25008084-5591-455c-9afb-089dad7c73e1">
+<details><summary><h3>THREAT ANALYSIS AND MANAGEMENT</h3>
 </summary>
 
 <details><summary>Vulnerability Management Analysis</summary>
@@ -116,7 +116,6 @@ https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Rule%20Devel
 
 [FTP](https://github.com/lm3nitro/CyberLabs/blob/main/Network%20Service%20Misconfigurations/FTP.md) | [NFS](https://github.com/lm3nitro/CyberLabs/blob/main/Network%20Service%20Misconfigurations/NFS.md) | [SMB](https://github.com/lm3nitro/CyberLabs/blob/main/Network%20Service%20Misconfigurations/SMB.md) | [SMTP](https://github.com/lm3nitro/CyberLabs/blob/main/Network%20Service%20Misconfigurations/SMTP.md) | [Telnet](https://github.com/lm3nitro/CyberLabs/blob/main/Network%20Service%20Misconfigurations/Telnet.md)
 </details>
-
 
 </details>
 
@@ -143,7 +142,7 @@ https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Rule%20Devel
 
 </details>
 
-<details><summary><img width="306" alt="Screenshot 2024-10-06 at 9 51 48 PM" src="https://github.com/user-attachments/assets/24984f0d-70dd-42a0-9cc9-0f2fa5dae50e">
+<details><summary><h3>TESTING AND EMULATION</h3>
 </summary>
 
 <details><summary>Attack Emulation</summary>
@@ -158,7 +157,7 @@ https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Rule%20Devel
 
 </details> 
 
-<details><summary><img width="367" alt="Screenshot 2024-10-06 at 9 52 03 PM" src="https://github.com/user-attachments/assets/3c11457f-d216-4e51-8ef4-73ad4773f5d8">
+<details><summary><h3>INFRASTRUCTURE AND SYSTEMS</h3>
 </summary>
 
 <details><summary>ESXi</summary>
@@ -182,7 +181,7 @@ https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Rule%20Devel
 
 </details>
 
-<details><summary><img width="255" alt="Screenshot 2024-10-06 at 9 52 24 PM" src="https://github.com/user-attachments/assets/d5b3d84f-a203-4c44-817f-f3943e321f7d">
+<details><summary><h3>SYSTEM MONITORING</h3>
 </summary>
 
 <details><summary>System Monitoring</summary>
@@ -191,7 +190,8 @@ https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Rule%20Devel
 </details>
 
 </details>
-<details><summary><img width="139" alt="Screenshot 2024-10-22 at 8 01 49 PM" src="https://github.com/user-attachments/assets/d2e6d587-87d6-4c8d-bb88-77e60b796a8d">
+<details><summary><h3>SCRIPTING</h3>
+
 </summary>
 
 <details><summary>Python</summary>
