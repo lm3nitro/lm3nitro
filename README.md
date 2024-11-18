@@ -3,7 +3,7 @@
 </div>
 
 <br><br>
-I have had a passion for networking from a young age. This fascination evolved into a deep appreciation for analyzing network traffic, which naturally transitioned into a passion for cybersecurity. I am currently seeking to leverage my expertise in networking and expand into the dynamic field of cybersecurity. My journey encompasses a diverse range of projects and experiences, where I have honed my skills in areas such as virtualization, proxy technologies, firewall configuration, IDS/IPS implementations, SIEM integration, and more.
+I have had a passion for networking from a young age. This fascination evolved into a deep appreciation for analyzing network traffic, which naturally transitioned into a passion for cybersecurity. I am currently seeking to leverage my expertise in networking and expand into the dynamic field of cybersecurity. My journey encompasses a diverse range of projects and experiences, where I have honed my skills in areas such as virtualization, network traffic analysis, firewall configuration, routing and switching and more.
 
 I am continuously learning, actively engaging in industry forums, training programs, and certifications. For me, each challenge is an opportunity for growth, and I am dedicated to contributing positively to the cybersecurity community.
 
