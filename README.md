@@ -23,7 +23,7 @@ Click below to view the individual certifications:
 <h2>P R O J E C T S</h1>
 </div>
 
-The following projects and exercises were conducted within my own network and virtual environment. I utilized VMware ESXi as the core platform, which I installed, patched, and configured as a Type 1 hypervisor to support various virtual machines (VMs) and tools. Additionally, I acquired other essential equipment, including routers, switches, and various firewalls, to enhance the network infrastructure. This combination of physical hardware and virtual resources created a robust, flexible, and scalable environment that was ideal for a wide range of testing and development scenarios.
+The following projects and exercises were conducted within my own network and virtual environment. I utilized VMware ESXi as the core platform, which I installed, patched, and configured it as a Type 1 hypervisor to support various virtual machines (VMs) and tools. Additionally, I acquired other essential equipment, including routers, switches, and various firewalls, to enhance the network infrastructure. This combination of physical hardware and virtual resources created a robust, flexible, and scalable environment that was ideal for a wide range of testing and development scenarios.
 
 Each of these sections can be expanded further to provide detailed insights into methodologies, tools used, and specific outcomes achieved throughout the projects and exercises.
 
