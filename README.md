@@ -215,12 +215,7 @@ https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Rule%20Devel
 <h2>S K I L L S</h1>
 </div>
 
-+ **Network Traffic Analysis** (Wireshark, Tcpdump, NetFlow, Packet Analysis, etc)
-+ **Firewall & Proxy** (Palo Alto, Fortinet, Transparent Proxy, etc)
-+ **Scripting & Automation** (Python and Bash)
-+ **Routing & Switching** (OSPF, BGP, VLANs, etc)
-+ **Threat Hunting, Log Analysis, & Vulnerability Management** (SIEM, IDS/IPS, Vulnerability assessment, etc)
-+ **Soft Skills** (Attention to Detail, Critical Thinking, Problem-Solving, Collaboration and Teamwork)
+Network Traffic Analysis | Routing and Switching | Firewall | Proxy | IDS/IPS | SIEM | Windows | Linux | Log Analysis
 
 <div align="center">
 <h2>H O B B I E S</h1>
