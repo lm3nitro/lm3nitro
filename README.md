@@ -215,6 +215,7 @@ https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Rule%20Devel
 <h2>S K I L L S</h1>
 </div>
 
+<div align="center">
 Network Traffic Analysis | Routing and Switching | Firewall | Proxy | IDS/IPS | SIEM | Windows | Linux | Log Analysis
 
 <div align="center">
