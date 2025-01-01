@@ -208,7 +208,13 @@ https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Rule%20Devel
 [Intro](https://github.com/lm3nitro/CyberLabs/blob/main/Bash%20Fundamentals/1-Intro.md) | [Variables](https://github.com/lm3nitro/CyberLabs/blob/main/Bash%20Fundamentals/2-Bash%20Variables.md) | [User Input](https://github.com/lm3nitro/CyberLabs/blob/main/Bash%20Fundamentals/3-Bash%20User%20Input.md) | [Loops](https://github.com/lm3nitro/CyberLabs/blob/main/Bash%20Fundamentals/4-Bash%20Loops.md) | [Loops Continue and Break](https://github.com/lm3nitro/CyberLabs/blob/main/Bash%20Fundamentals/5-Bash%20Loops%20Continue%20and%20Break.md) | [Functions](https://github.com/lm3nitro/CyberLabs/blob/main/Bash%20Fundamentals/6-Bash%20Functions.md) | [Conditionals](https://github.com/lm3nitro/CyberLabs/blob/main/Bash%20Fundamentals/7-Bash%20Conditionals.md) | [Conditional Expressions](https://github.com/lm3nitro/CyberLabs/blob/main/Bash%20Fundamentals/8-Bash%20Conditional%20Expressions.md) | [Comments](https://github.com/lm3nitro/CyberLabs/blob/main/Bash%20Fundamentals/9-Bash%20Comments.md) | [Arrays](https://github.com/lm3nitro/CyberLabs/blob/main/Bash%20Fundamentals/10-Bash%20Arrays.md) | [Arguments](https://github.com/lm3nitro/CyberLabs/blob/main/Bash%20Fundamentals/11-Bash%20Arguments.md) | [Arithmetic Operations](https://github.com/lm3nitro/CyberLabs/blob/main/Bash%20Fundamentals/12-Arithmetic%20Operations.md) 
 </details>
 </details>
+</details>
 
+<details><summary><h3>PHISHING ANALYSIS</h3>
+</summary>
+    
+[Amazon Prime](https://github.com/lm3nitro/CyberLabs/blob/main/Phishing%20Analysis/Amazon%20Prime.md) 
+</details>
 </details>
    
 <div align="center">
