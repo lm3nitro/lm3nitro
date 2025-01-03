@@ -213,7 +213,7 @@ https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Rule%20Devel
 <details><summary><h3>PHISHING ANALYSIS</h3>
 </summary>
     
-[Amazon Prime](https://github.com/lm3nitro/CyberLabs/blob/main/Phishing%20Analysis/Amazon%20Prime.md) | [Dropbox Password Reset](https://github.com/lm3nitro/CyberLabs/blob/main/Phishing%20Analysis/Dropbox%20Password%20Reset.md) | [Microsoft Outlook Support](https://github.com/lm3nitro/CyberLabs/blob/main/Phishing%20Analysis/Microsoft%20Outlook%20Support.md)
+[Amazon Prime](https://github.com/lm3nitro/CyberLabs/blob/main/Phishing%20Analysis/Amazon%20Prime.md) | [Dropbox Password Reset](https://github.com/lm3nitro/CyberLabs/blob/main/Phishing%20Analysis/Dropbox%20Password%20Reset.md) | [Microsoft Outlook Support](https://github.com/lm3nitro/CyberLabs/blob/main/Phishing%20Analysis/Microsoft%20Outlook%20Support.md) | [Survey Invitation](https://github.com/lm3nitro/CyberLabs/blob/main/Phishing%20Analysis/Survey%20Invitation.md)
 </details>
 </details>
    
