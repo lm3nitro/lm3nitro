@@ -69,6 +69,17 @@ https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Rule%20Devel
 <details><summary>Network Traffic Analysis</summary>
 
 [Arkime](https://github.com/lm3nitro/CyberLabs/blob/main/Arkime.md) | [Argus](https://github.com/lm3nitro/CyberLabs/blob/main/Argus.md) | [Nfdump](https://github.com/lm3nitro/CyberLabs/blob/main/Nfdump%20Install.md) | [ARP Scanning](https://github.com/lm3nitro/CyberLabs/blob/main/ARP%20Scanning.md) | [ARP Spoofing](https://github.com/lm3nitro/CyberLabs/blob/main/ARP%20Spoofing.md) | [Arpwatch](https://github.com/lm3nitro/CyberLabs/blob/main/Detecting%20ARP%20Spoofing%20with%20ArpWatch.md)
+</details>
+
+<details><summary>Malware Traffic Analysis</summary>
+    
+<details><summary>Tools</summary>
+
+[PE-Extract](https://github.com/lm3nitro/CyberLabs/blob/main/Network%20Traffic%20Analysis/Malware%20Traffic%20Analysis/Tools/PE-Extract.md)
+</details>  
+
+[audiodg](https://github.com/lm3nitro/CyberLabs/blob/main/Network%20Traffic%20Analysis/Malware%20Traffic%20Analysis/audiodg.md) 
+</details>  
 
 <details><summary>Rita</summary>
 
@@ -88,8 +99,6 @@ https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Rule%20Devel
 <details><summary>Tunneling</summary>
     
 [DNS Tunneling](https://github.com/lm3nitro/CyberLabs/blob/main/Tunneling/DNS%20Tunneling.md) | [ICMP Tunneling](https://github.com/lm3nitro/CyberLabs/blob/main/Tunneling/ICMP%20Tunnelling.md) | [Telnet Tunneling](https://github.com/lm3nitro/CyberLabs/blob/main/Tunneling/Telnet%20Tunneling.md)
-</details>
-
 </details>
 
 <details><summary>Network Monitoring</summary>
