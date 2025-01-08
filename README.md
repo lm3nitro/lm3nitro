@@ -78,7 +78,7 @@ https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Rule%20Devel
 [PE-Extract](https://github.com/lm3nitro/CyberLabs/blob/main/Network%20Traffic%20Analysis/Malware%20Traffic%20Analysis/Tools/PE-Extract.md)
 </details>  
 
-[audiodg](https://github.com/lm3nitro/CyberLabs/blob/main/Network%20Traffic%20Analysis/Malware%20Traffic%20Analysis/audiodg.md) | [User Agent SSLoad](https://github.com/lm3nitro/CyberLabs/blob/main/Network%20Traffic%20Analysis/Malware%20Traffic%20Analysis/audiodg.md)
+[audiodg](https://github.com/lm3nitro/CyberLabs/blob/main/Network%20Traffic%20Analysis/Malware%20Traffic%20Analysis/audiodg.md) | [User Agent SSLoad](https://github.com/lm3nitro/CyberLabs/blob/main/Network%20Traffic%20Analysis/Malware%20Traffic%20Analysis/audiodg.md) | [Qakbot](https://github.com/lm3nitro/CyberLabs/blob/main/Network%20Traffic%20Analysis/Malware%20Traffic%20Analysis/Qakbot.md)
 </details>  
 
 <details><summary>Rita</summary>
