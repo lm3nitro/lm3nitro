@@ -52,7 +52,12 @@ Each of these sections can be expanded further to provide detailed insights into
 
 <details><summary>IDS/IPS</summary>
 
-[Fail2Ban](https://github.com/lm3nitro/CyberLabs/blob/main/Fail2Ban.md) | [Snort](https://github.com/lm3nitro/CyberLabs/blob/main/Snort.md) | [Suricata Install/Splunk](https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Install%20and%20Splunk%20Config.md) | [Suricata Rule Development](
+<details><summary>Snort</summary>
+
+[Snort Install](https://github.com/lm3nitro/CyberLabs/blob/main/Snort/Snort.md) | [LFI Vulnerability](https://github.com/lm3nitro/CyberLabs/blob/main/Snort/Rule%20Development/LFI%20Vulnerability.md)
+</details> 
+
+[Fail2Ban](https://github.com/lm3nitro/CyberLabs/blob/main/Fail2Ban.md)  | [Suricata Install/Splunk](https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Install%20and%20Splunk%20Config.md) | [Suricata Rule Development](
 https://github.com/lm3nitro/CyberLabs/blob/main/Suricata/Suricata%20Rule%20Development.md) 
 </details>
 
